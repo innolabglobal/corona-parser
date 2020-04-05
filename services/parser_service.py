@@ -72,7 +72,7 @@ class ParserService:
 
             new_recovered = today_recovered - yesterday_recovered
 
-            append_data.append('{:,}'.format(new_recovered))            
+            append_data.append(new_recovered)            
             parsed_data.append(append_data)
         
         df = pd.DataFrame(parsed_data, columns=columns)
