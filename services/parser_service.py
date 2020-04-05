@@ -55,22 +55,35 @@ class ParserService:
         country_rows_yesterday.sort(key = sort_alphabetically)
         regex = '(\n|\+|,)'
 
-        for country_row, country_row_yesterday in zip(country_rows, country_rows_yesterday):
+        def filterbyvalue(seq, value):
+            for el in seq:
+                if el.findAll("td")[0].get_text()==value: 
+                    return el
+            
+        for country_row in country_rows:
             append_data = [re.sub(regex, "", data.get_text()) for data in country_row.findAll("td")]
+            
+            today_class_name = re.sub(regex, "", country_row.findAll("td")[0].get_text())
+            same_row = filterbyvalue(country_rows_yesterday, today_class_name)
 
-            today_recovered_elem = re.sub(regex, "", country_row.findAll("td")[5].get_text().replace("\n", "").replace(",", ""))
-            if today_recovered_elem:
-                today_recovered = int(today_recovered_elem)
+            if same_row: 
+                today_recovered_elem = re.sub(regex, "", country_row.findAll("td")[5].get_text())
+                if today_recovered_elem:
+                    today_recovered = int(today_recovered_elem)
+                else:
+                    today_recovered = 0
+
+                yesterday_recovered_elem = re.sub(regex, "", same_row.findAll("td")[5].get_text())
+                if yesterday_recovered_elem:
+                    yesterday_recovered = int(yesterday_recovered_elem)
+                else:
+                    yesterday_recovered = 0
+
+                print(country_row.findAll("td")[0].get_text(), today_recovered, yesterday_recovered)
+                new_recovered = today_recovered - yesterday_recovered
             else:
-                today_recovered = 0
-
-            yesterday_recovered_elem = re.sub(regex, "", country_row_yesterday.findAll("td")[5].get_text().replace("\n", "").replace(",", ""))
-            if yesterday_recovered_elem:
-                yesterday_recovered = int(yesterday_recovered_elem)
-            else:
-                yesterday_recovered = 0
-
-            new_recovered = today_recovered - yesterday_recovered
+                print(country_row.findAll("td")[0].get_text(), 'no old data')
+                new_recovered = 0
 
             append_data.append(new_recovered)            
             parsed_data.append(append_data)
