@@ -20,6 +20,7 @@ class ParserService:
         header = header.replace(u"\xa0", u" ").replace("\n", "") 
         return header.replace(", ", "/")
 
+
     @staticmethod
     def create_df_worldometer(raw_data):
         """
@@ -34,21 +35,42 @@ class ParserService:
 
         soup = BeautifulSoup(raw_data, features="html.parser")
 
-        _id = "main_table_countries_today"
-
-        countries_table = soup.find("table", attrs={"id": _id})
+        countries_table = soup.find("table", attrs={"id": "main_table_countries_today"})
+        countries_table_yesterday = soup.find("table", attrs={"id": "main_table_countries_yesterday"})
 
         columns = [ParserService.format_table_header_column(th) for th
                    in countries_table.find("thead").findAll("th")]
+        columns.append('New Recovered')
 
         parsed_data = []
 
+        def sort_alphabetically(item):
+            country_name = item.findAll("td")[0].get_text().replace("\n", "")
+            return country_name
+
         country_rows = countries_table.find("tbody").find_all("tr")
+        country_rows.sort(key = sort_alphabetically)
+        country_rows_yesterday = countries_table_yesterday.find("tbody").find_all("tr")
+        country_rows_yesterday.sort(key = sort_alphabetically)
 
-        for country_row in country_rows:
-            parsed_data.append([data.get_text().replace("\n", "") for data
-                                in country_row.findAll("td")])
+        for country_row, country_row_yesterday in zip(country_rows, country_rows_yesterday):
+            append_data = [data.get_text().replace("\n", "") for data in country_row.findAll("td")]
 
+            if country_row.findAll("td")[5].get_text().replace("\n", "").replace(",", ""):
+                today_recovered = int(country_row.findAll("td")[5].get_text().replace("\n", "").replace(",", ""))
+            else:
+                today_recovered = 0
+
+            if country_row_yesterday.findAll("td")[5].get_text().replace("\n", "").replace(",", ""):
+                yesterday_recovered = int(country_row_yesterday.findAll("td")[5].get_text().replace("\n", "").replace(",", ""))
+            else:
+                yesterday_recovered = 0
+
+            new_recovered = today_recovered - yesterday_recovered
+
+            append_data.append('{:,}'.format(new_recovered))            
+            parsed_data.append(append_data)
+        
         df = pd.DataFrame(parsed_data, columns=columns)
         return df.replace(to_replace=[""], value=0)
 
