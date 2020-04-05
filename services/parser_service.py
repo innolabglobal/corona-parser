@@ -1,5 +1,6 @@
 from bs4 import BeautifulSoup
 import pandas as pd
+import re
 
 class ParserService:
 
@@ -52,17 +53,20 @@ class ParserService:
         country_rows.sort(key = sort_alphabetically)
         country_rows_yesterday = countries_table_yesterday.find("tbody").find_all("tr")
         country_rows_yesterday.sort(key = sort_alphabetically)
+        regex = '(\n|\+|,)'
 
         for country_row, country_row_yesterday in zip(country_rows, country_rows_yesterday):
-            append_data = [data.get_text().replace("\n", "") for data in country_row.findAll("td")]
+            append_data = [re.sub(regex, "", data.get_text()) for data in country_row.findAll("td")]
 
-            if country_row.findAll("td")[5].get_text().replace("\n", "").replace(",", ""):
-                today_recovered = int(country_row.findAll("td")[5].get_text().replace("\n", "").replace(",", ""))
+            today_recovered_elem = re.sub(regex, "", country_row.findAll("td")[5].get_text().replace("\n", "").replace(",", ""))
+            if today_recovered_elem:
+                today_recovered = int(today_recovered_elem)
             else:
                 today_recovered = 0
 
-            if country_row_yesterday.findAll("td")[5].get_text().replace("\n", "").replace(",", ""):
-                yesterday_recovered = int(country_row_yesterday.findAll("td")[5].get_text().replace("\n", "").replace(",", ""))
+            yesterday_recovered_elem = re.sub(regex, "", country_row_yesterday.findAll("td")[5].get_text().replace("\n", "").replace(",", ""))
+            if yesterday_recovered_elem:
+                yesterday_recovered = int(yesterday_recovered_elem)
             else:
                 yesterday_recovered = 0
 
