@@ -1,5 +1,4 @@
 Country/Other,Total Cases,New Cases,Total Deaths,New Deaths,Total Recovered,Active Cases,Serious/Critical,Tot Cases/ 1M pop,Deaths/ 1M pop,Total Tests,Tests/  1M pop ,Continent,New Recovered
-0,721,0,13,0,619,89,10,0,0,0,0,0,0
 Afghanistan,484,40,15 ,1,32,437,0,12,0.4,0,0,Asia,3
 Africa,12058,72,579,3,1473,10006,143,0,0,0,0,Africa,0
 Albania,409,9,22 ,0,165,222,7,142,8,3223,1120,Europe,11
@@ -11,17 +10,17 @@ Antigua and Barbuda,19,0,2 ,0,0,17,1,194,20,40,408,North America,0
 Argentina,1795,0,65 ,0,358,1372,96,40,1,13330,295,South America,0
 Armenia,921,40,10 ,1,138,773,30,311,3,5823,1965,Asia,24
 Aruba,77,0, ,0,14,63,0,721,0,990,9273,North America,0
-Asia,255039,1730,9609,81,125612,119818,6447,0,0,0,0,Asia,0
+Asia,255151,1842,9610,82,125612,119929,6447,0,0,0,0,Asia,0
 Australia,6104,52,51 ,1,2987,3066,81,239,2,330134,12946,Australia/Oceania,174
-Austria,13028,86,295 ,22,5240,7493,266,1447,33,126287,14022,Europe,728
+Austria,13074,132,295 ,22,5240,7539,266,1452,33,126287,14022,Europe,728
 Azerbaijan,822,0,8 ,0,63,751,23,81,0.8,53300,5257,Asia,0
 Bahamas,40,0,7 ,0,5,28,1,102,18,0,0,North America,0
 Bahrain,823,0,5 ,0,477,341,3,484,3,52351,30766,Asia,0
-Bangladesh,218,0,20 ,0,33,165,1,1,0.1,5164,31,Asia,0
+Bangladesh,330,112,21 ,1,33,276,1,2,0.1,5164,31,Asia,0
 Barbados,63,0,3 ,0,8,52,4,219,10,655,2279,North America,0
 Belarus,1066,0,13 ,0,77,976,33,113,1,46000,4868,Europe,0
 Belgium,24983,1580,2523 ,283,5164,17296,1285,2156,218,84248,7269,Europe,483
-Belize,8,0,1 ,0,0,7,1,20,3,334,840,North America,0
+Belize,8,0,1  ,0,0,7,1,20,3,334,840,North America,0
 Benin,26,0,1 ,0,5,20,0,2,0.08,0,0,Africa,0
 Bermuda,39,0,3 ,0,23,13,0,626,48,315,5058,North America,0
 Bhutan,5,0, ,0,2,3,0,6,0,1166,1511,Asia,0
@@ -67,7 +66,7 @@ Eritrea,33,0, ,0,0,33,0,9,0,0,0,Africa,0
 Estonia,1207,22,24 ,0,83,1100,9,910,18,26416,19914,Europe,11
 Eswatini,12,0, ,0,7,5,0,10,0,0,0,Africa,0
 Ethiopia,56,1,2 ,0,4,50,2,0.5,0.02,2790,24,Africa,0
-Europe,753776,8860,62086,820,174104,517586,30168,0,0,0,0,Europe,0
+Europe,753822,8906,62086,820,174104,517632,30168,0,0,0,0,Europe,0
 Faeroe Islands,184,0, ,0,136,48,0,3766,0,5299,108446,Europe,5
 Falkland Islands,5,0, ,0,1,4,0,1437,0,137,39368,South America,0
 Fiji,15,0, ,0,0,15,0,17,0,0,0,Australia/Oceania,0
@@ -215,6 +214,6 @@ Vatican City,8,0, ,0,2,6,0,9988,0,0,0,Europe,0
 Venezuela,167,0,9 ,0,65,93,6,6,0.3,1779,63,South America,0
 Vietnam,251,0, ,0,128,123,8,3,0,110124,1131,Asia,2
 Western Sahara,4,0, ,0,0,4,0,7,0,0,0,Africa,0
-World,1529482,11522,89417,962,337164,1102901,48201,196,11.5,0,0,All,6898
+World,1529640,11680,89418,963,337164,1103058,48201,196,11.5,0,0,All,6898
 Zambia,39,0,1 ,0,7,31,1,2,0.05,1239,67,Africa,0
 Zimbabwe,11,0,3 ,0,0,8,0,0.7,0.2,371,25,Africa,0
