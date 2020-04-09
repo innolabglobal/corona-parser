@@ -3,7 +3,7 @@ name: Automated cases extraction
 on:
   push:
   schedule:
-    - cron:  '0 */4 * * *'
+    - cron:  '0 */1 * * *'
 
 jobs:
   get_cases:
