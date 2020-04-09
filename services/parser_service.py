@@ -61,10 +61,22 @@ class ParserService:
                     return el
             
         for country_row in country_rows:
+            # print('country_row', country_row['style'])
+            # if country_row['style'] and country_row['style'] is 'display: none':
+            #     return  
+
             append_data = [re.sub(regex, "", data.get_text()) for data in country_row.findAll("td")]
             
+            # print('country_row.findAll("td")[0].get_text():', country_row.findAll("td"))
+
             today_class_name = re.sub(regex, "", country_row.findAll("td")[0].get_text())
+
+            if today_class_name is '':
+                continue 
+
             same_row = filterbyvalue(country_rows_yesterday, today_class_name)
+
+            # print('for country_row in country_rows:', '<<', today_class_name, '>>')
 
             if same_row: 
                 today_recovered_elem = re.sub(regex, "", country_row.findAll("td")[5].get_text())
@@ -79,10 +91,10 @@ class ParserService:
                 else:
                     yesterday_recovered = 0
 
-                print(country_row.findAll("td")[0].get_text(), today_recovered, yesterday_recovered)
+                # print(country_row.findAll("td")[0].get_text(), today_recovered, yesterday_recovered)
                 new_recovered = today_recovered - yesterday_recovered
             else:
-                print(country_row.findAll("td")[0].get_text(), 'no old data')
+                # print(country_row.findAll("td")[0].get_text(), 'no old data')
                 new_recovered = 0
 
             append_data.append(new_recovered)            
