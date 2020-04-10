@@ -1,6 +1,6 @@
 Country/Other,Total Cases,New Cases,Total Deaths,New Deaths,Total Recovered,Active Cases,Serious/Critical,Tot Cases/ 1M pop,Deaths/ 1M pop,Total Tests,Tests/  1M pop ,Continent,New Recovered
 Afghanistan,484,0,15 ,0,32,437,0,12,0.4,0,0,Asia,0
-Africa,12915,35,634,2,1698,10583,155,0,0,0,0,Africa,0
+Africa,12917,37,634,2,1698,10585,155,0,0,0,0,Africa,0
 Albania,409,0,23 ,0,165,221,7,142,8,3223,1120,Europe,0
 Algeria,1666,0,235 ,0,347,1084,46,38,5,3359,77,Africa,0
 Andorra,583,0,25 ,0,58,500,17,7545,324,1673,21653,Europe,0
@@ -37,7 +37,7 @@ CAR,8,0, ,0,0,8,0,2,0,0,0,Africa,0
 Cabo Verde,7,0,1 ,0,1,5,0,13,2,0,0,Africa,0
 Cambodia,119,0, ,0,72,47,1,7,0,5768,345,Asia,10
 Cameroon,803,0,12 ,0,61,730,0,30,0.5,0,0,Africa,0
-Canada,20765,0,509 ,0,5311,14945,518,550,13,370315,9812,North America,0
+Canada,20765,0,509  ,0,5311,14945,518,550,13,370315,9812,North America,0
 Caribbean Netherlands,2,0, ,0,0,2,0,76,0,10,381,North America,0
 Cayman Islands,45,0,1 ,0,6,38,0,685,15,479,7288,North America,0
 Chad,11,0, ,0,2,9,0,0.7,0,0,0,Africa,0
@@ -126,9 +126,9 @@ Maldives,19,0, ,0,13,6,0,35,0,0,0,Asia,0
 Mali,74,0,7 ,0,22,45,0,4,0.3,0,0,Africa,0
 Malta,337,0,2 ,0,16,319,4,763,5,13732,31100,Europe,0
 Martinique,154,0,6 ,0,50,98,19,410,16,0,0,North America,0
-Mauritania,7,0,1 ,0,2,4,0,2,0.2,258,55,Africa,0
+Mauritania,7,0,1  ,0,2,4,0,2,0.2,258,55,Africa,0
 Mauritius,314,0,7 ,0,23,284,3,247,6,6730,5292,Africa,0
-Mayotte,184,0,2 ,0,26,156,4,674,7,1100,4032,Africa,0
+Mayotte,186,2,2 ,0,26,158,4,682,7,1100,4032,Africa,0
 Mexico,3441,260,194 ,20,633,2614,89,27,2,31492,244,North America,0
 Moldova,1289,0,29 ,0,50,1210,80,320,7,5108,1266,Europe,0
 Monaco,84,0,1 ,0,5,78,4,2141,25,0,0,Europe,0
@@ -214,7 +214,7 @@ Vatican City,8,0, ,0,2,6,0,9988,0,0,0,Europe,0
 Venezuela,171,0,9 ,0,84,78,6,6,0.3,139282,4898,South America,0
 Vietnam,255,0, ,0,128,127,8,3,0,114241,1174,Asia,0
 Western Sahara,4,0, ,0,0,4,0,7,0,0,0,Africa,0
-World,1605277,1625,95751,59,356925,1152601,49143,206,12.3,0,0,All,573
+World,1605279,1627,95751,59,356925,1152603,49143,206,12.3,0,0,All,573
 Yemen,1,1, ,0,0,1,0,0.03,0,0,0,Asia,0
 Zambia,39,0,1 ,0,24,14,1,2,0.05,1239,67,Africa,0
 Zimbabwe,11,0,3 ,0,0,8,0,0.7,0.2,371,25,Africa,0
