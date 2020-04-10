@@ -1,5 +1,5 @@
 Country/Other,Total Cases,New Cases,Total Deaths,New Deaths,Total Recovered,Active Cases,Serious/Critical,Tot Cases/ 1M pop,Deaths/ 1M pop,Total Tests,Tests/  1M pop ,Continent,New Recovered
-Afghanistan,521,37,15 ,0,32,474,0,13,0.4,0,0,Asia,0
+Afghanistan,521,37,15  ,0,32,474,0,13,0.4,0,0,Asia,0
 Africa,13113,233,653,21,2077,10383,154,0,0,0,0,Africa,0
 Albania,416,7,23 ,0,182,211,7,145,8,3385,1176,Europe,17
 Algeria,1666,0,235 ,0,347,1084,46,38,5,3359,77,Africa,0
@@ -144,7 +144,7 @@ Netherlands,23097,1335,2511 ,115,250,20336,1424,1348,147,101534,5926,Europe,0
 New Caledonia,18,0, ,0,1,17,0,63,0,2608,9135,Australia/Oceania,0
 New Zealand,1283,44,2 ,1,373,908,5,266,0.4,55685,11548,Australia/Oceania,56
 Nicaragua,7,0,1 ,0,0,6,0,1,0.2,0,0,North America,0
-Niger,410,0,11 ,0,40,359,0,17,0.5,4251,176,Africa,0
+Niger,410,0,11  ,0,40,359,0,17,0.5,4251,176,Africa,0
 Nigeria,288,0,7 ,0,51,230,2,1,0.03,5000,24,Africa,0
 North America,507244,7024,18053,387,32425,456766,11139,0,0,0,0,North America,0
 North Macedonia,711,48,32 ,2,41,638,15,341,15,6571,3154,Europe,4
