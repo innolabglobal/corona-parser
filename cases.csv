@@ -45,7 +45,7 @@ Channel Islands,398,37,9 ,1,40,349,0,2289,52,1157,6655,Europe,0
 Chile,6501,529,65 ,8,1571,4865,70,340,3,72797,3808,South America,297
 China,81907,42,3336 ,1,77455,1116,144,57,2,0,0,Asia,85
 Colombia,2223,0,69 ,0,174,1980,85,44,1,34910,686,South America,0
-Congo,60,0,5  ,0,5,50,0,11,0.9,0,0,Africa,0
+Congo,60,0,5 ,0,5,50,0,11,0.9,0,0,Africa,0
 Costa Rica,558,19,3 ,0,42,513,13,110,0.6,6298,1236,North America,12
 Croatia,1495,88,21 ,1,231,1243,34,364,5,14612,3559,Europe,12
 Cuba,564,49,15 ,0,51,498,11,50,1,12023,1061,North America,23
@@ -168,7 +168,7 @@ Réunion,382,20, ,0,40,342,3,427,0,0,0,Africa,0
 S. Korea,10450,27,208 ,4,7117,3125,55,204,4,503051,9812,Asia,144
 Saint Kitts and Nevis,11,0, ,0,0,11,0,207,0,197,3703,North America,0
 Saint Lucia,15,1, ,0,1,14,0,82,0,0,0,North America,0
-Saint Martin,32,0,2  ,0,11,19,5,828,52,0,0,North America,4
+Saint Martin,32,0,2 ,0,11,19,5,828,52,0,0,North America,4
 Saint Pierre Miquelon,1,0, ,0,0,1,0,173,0,0,0,North America,0
 San Marino,344,11,34 ,0,50,260,14,10138,1002,846,24933,Europe,1
 Sao Tome and Principe,4,0, ,0,0,4,0,18,0,19,87,Africa,0
