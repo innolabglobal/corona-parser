@@ -83,7 +83,7 @@ Gibraltar,127,0, ,0,69,58,1,3770,0,1543,45799,Europe,0
 Greece,2011,0,92 ,0,269,1650,77,193,9,35532,3409,Europe,0
 Greenland,11,0, ,0,11,0,0,194,0,770,13564,North America,0
 Grenada,14,0, ,0,0,14,2,124,0,92,818,North America,0
-Guadeloupe,143,0,8  ,0,67,68,13,357,20,0,0,North America,0
+Guadeloupe,143,0,8 ,0,67,68,13,357,20,0,0,North America,0
 Guatemala,137,11,3 ,0,19,115,3,8,0.2,1134,63,North America,2
 Guinea,212,0, ,0,15,197,0,16,0,0,0,Africa,0
 Guinea-Bissau,36,0, ,0,0,36,0,18,0,1500,762,Africa,0
@@ -199,7 +199,7 @@ Tanzania,32,0,3 ,0,5,24,0,0.5,0.05,0,0,Africa,0
 Thailand,2473,0,33 ,0,1013,1427,61,35,0.5,71860,1030,Asia,0
 Timor-Leste,2,0, ,0,1,1,0,2,0,0,0,Asia,0
 Togo,76,0,3 ,0,25,48,0,9,0.4,2069,250,Africa,0
-Trinidad and Tobago,109,0,8  ,0,3,98,0,78,6,1090,779,North America,2
+Trinidad and Tobago,109,0,8 ,0,3,98,0,78,6,1090,779,North America,2
 Tunisia,671,0,25 ,0,25,621,78,57,2,10087,853,Africa,0
 Turkey,47029,0,1006 ,0,2423,43600,1667,558,12,307210,3643,Asia,0
 Turks and Caicos,8,0,1 ,0,0,7,0,207,26,61,1576,North America,0
@@ -211,7 +211,7 @@ Ukraine,2203,0,69 ,0,61,2073,33,50,2,23522,538,Europe,0
 Uruguay,494,21,7 ,0,214,273,15,142,2,7496,2158,South America,8
 Uzbekistan,669,45,3 ,0,42,624,8,20,0.09,70000,2091,Asia,0
 Vatican City,8,0, ,0,2,6,0,9988,0,0,0,Europe,0
-Venezuela,175,0,9  ,0,84,82,6,6,0.3,159597,5613,South America,0
+Venezuela,175,0,9 ,0,84,82,6,6,0.3,159597,5613,South America,0
 Vietnam,257,0, ,0,144,113,8,3,0,118807,1221,Asia,0
 Western Sahara,4,0, ,0,0,4,0,7,0,0,0,Africa,0
 World,1699632,797,102734,50,376330,1220568,49830,218,13.2,0,0,All,146
