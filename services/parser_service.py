@@ -104,6 +104,36 @@ class ParserService:
         return df.replace(to_replace=[""], value=0)
 
     @staticmethod
+    def create_df_worldometer_by_day(raw_data, id):
+        """
+        Parses the raw HTML response from Worldometer and returns a DataFrame from it
+        @Params:
+        raw_data (string): request.text from Worldometer
+        @Returns:
+        DataFrame
+        """
+
+        soup = BeautifulSoup(raw_data, features="html.parser")
+
+        countries_table = soup.find("table", attrs={"id": id})
+
+        columns = [ParserService.format_table_header_column(th) for th
+                   in countries_table.find("thead").findAll("th")]
+
+        parsed_data = []
+
+        country_rows = countries_table.find("tbody").find_all("tr")
+
+        regex = r'(\n|\+|,)'
+
+        for country_row in country_rows:
+            parsed_data.append([re.sub(regex, "", data.get_text().strip()) for data
+                                in country_row.findAll("td")])
+
+        df = pd.DataFrame(parsed_data, columns=columns)
+        return df.replace(to_replace=[""], value=0)
+
+    @staticmethod
     def parse_last_updated(raw_data):
         """
         Parses the raw HTML response from Worldometer and returns the lastest update time from the webpage
