@@ -13,3 +13,10 @@ if __name__ == "__main__":
     output.set_index("Country/Other").to_json(r"./cases.json", orient="index")
     print(last_updated)
     print(output)
+
+    today_output = parser_service.create_df_worldometer_by_day(latest_data, "main_table_countries_today")
+    yesterday_output = parser_service.create_df_worldometer_by_day(latest_data, "main_table_countries_yesterday")
+    today_output.to_csv(r'./cases_today.csv', index=False)
+    today_output.set_index("Country/Other").to_json(r"./cases_today.json", orient="index")
+    yesterday_output.to_csv(r'./cases_yesterday.csv', index=False)
+    yesterday_output.set_index("Country/Other").to_json(r"./cases_yesterday.json", orient="index")
