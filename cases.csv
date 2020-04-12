@@ -2,7 +2,7 @@ Country/Other,Total Cases,New Cases,Total Deaths,New Deaths,Total Recovered,Acti
 Afghanistan,555,0,18 ,0,32,505,0,14,0.5,0,0,Asia,0
 Africa,14220,0,745,0,2457,11018,172,0,0,0,0,Africa,0
 Albania,433,0,23 ,0,197,213,7,150,8,3644,1266,Europe,0
-Algeria,1825,0,275  ,0,460,1090,60,42,6,3359,77,Africa,0
+Algeria,1825,0,275 ,0,460,1090,60,42,6,3359,77,Africa,0
 Andorra,601,0,26 ,0,71,504,17,7778,337,1673,21653,Europe,0
 Angola,19,0,2 ,0,4,13,0,0.6,0.06,0,0,Africa,0
 Anguilla,3,0, ,0,0,3,0,200,0,0,0,North America,0
@@ -47,7 +47,7 @@ China,82052,99,3339 ,0,77575,1138,139,57,2,0,0,Asia,50
 Colombia,2709,0,100 ,0,214,2395,92,53,2,40603,798,South America,0
 Congo,60,0,5 ,0,5,50,0,11,0.9,0,0,Africa,0
 Costa Rica,577,0,3 ,0,49,525,13,113,0.6,6608,1297,North America,0
-Croatia,1534,0,21 ,0,323,1190,32,374,5,15691,3822,Europe,0
+Croatia,1534,0,21  ,0,323,1190,32,374,5,15691,3822,Europe,0
 Cuba,620,0,16 ,0,77,527,11,55,1,13162,1162,North America,0
 Curaçao,14,0,1 ,0,7,6,0,85,6,0,0,North America,0
 Cyprus,616,0,10 ,0,61,545,8,510,8,17119,14179,Asia,0
@@ -58,7 +58,7 @@ Diamond Princess,712,0,11 ,0,619,82,10,0,0,0,0,0,0
 Djibouti,187,0,2 ,0,36,149,0,189,2,4017,4066,Africa,0
 Dominica,16,0, ,0,5,11,0,222,0,309,4293,North America,0
 Dominican Republic,2759,0,135 ,0,108,2516,147,254,12,8469,781,North America,0
-Ecuador,7257,0,315  ,0,411,6531,184,411,18,21568,1222,South America,0
+Ecuador,7257,0,315 ,0,411,6531,184,411,18,21568,1222,South America,0
 Egypt,1939,0,146 ,0,426,1367,0,19,1,25000,244,Africa,0
 El Salvador,118,0,6 ,0,19,93,4,18,0.9,0,0,North America,0
 Equatorial Guinea,18,0, ,0,3,15,0,13,0,854,609,Africa,0
@@ -192,7 +192,7 @@ St. Vincent Grenadines,12,0, ,0,1,11,0,108,0,56,505,North America,0
 Sudan,19,0,2 ,0,2,15,0,0.4,0.05,0,0,Africa,0
 Suriname,10,0,1 ,0,4,5,0,17,2,0,0,South America,0
 Sweden,10151,0,887 ,0,381,8883,789,1005,88,54700,5416,Europe,0
-Switzerland,25107,0,1036 ,0,12100,11971,386,2901,120,190000,21954,Europe,0
+Switzerland,25107,0,1036  ,0,12100,11971,386,2901,120,190000,21954,Europe,0
 Syria,25,0,2 ,0,5,18,0,1,0.1,0,0,Asia,0
 Taiwan,385,0,6 ,0,99,280,0,16,0.3,45436,1908,Asia,0
 Tanzania,32,0,3 ,0,5,24,0,0.5,0.05,0,0,Africa,0
