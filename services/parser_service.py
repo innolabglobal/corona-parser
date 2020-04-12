@@ -2,6 +2,7 @@ from bs4 import BeautifulSoup
 import pandas as pd
 import re
 
+
 class ParserService:
 
     @staticmethod
@@ -18,9 +19,8 @@ class ParserService:
 
         header = " ".join(th.strings)  # join strings broken by <br> tags
         # replace non-breaking space with space and remove \n
-        header = header.replace(u"\xa0", u" ").replace("\n", "") 
+        header = header.replace(u"\xa0", u" ").replace("\n", "")
         return header.replace(", ", "/")
-
 
     @staticmethod
     def create_df_worldometer(raw_data):
@@ -50,35 +50,35 @@ class ParserService:
             return country_name
 
         country_rows = countries_table.find("tbody").find_all("tr")
-        country_rows.sort(key = sort_alphabetically)
+        country_rows.sort(key=sort_alphabetically)
         country_rows_yesterday = countries_table_yesterday.find("tbody").find_all("tr")
-        country_rows_yesterday.sort(key = sort_alphabetically)
+        country_rows_yesterday.sort(key=sort_alphabetically)
         regex = '(\n|\+|,)'
 
-        def filterbyvalue(seq, value):
+        def filter_by_value(seq, value):
             for el in seq:
-                if el.findAll("td")[0].get_text()==value: 
+                if el.findAll("td")[0].get_text() == value:
                     return el
-            
+
         for country_row in country_rows:
             # print('country_row', country_row['style'])
             # if country_row['style'] and country_row['style'] is 'display: none':
             #     return  
 
             append_data = [re.sub(regex, "", data.get_text()) for data in country_row.findAll("td")]
-            
+
             # print('country_row.findAll("td")[0].get_text():', country_row.findAll("td"))
 
             today_class_name = re.sub(regex, "", country_row.findAll("td")[0].get_text())
 
             if today_class_name is '':
-                continue 
+                continue
 
-            same_row = filterbyvalue(country_rows_yesterday, today_class_name)
+            same_row = filter_by_value(country_rows_yesterday, today_class_name)
 
             # print('for country_row in country_rows:', '<<', today_class_name, '>>')
 
-            if same_row: 
+            if same_row:
                 today_recovered_elem = re.sub(regex, "", country_row.findAll("td")[5].get_text())
                 if today_recovered_elem:
                     today_recovered = int(today_recovered_elem)
@@ -97,9 +97,9 @@ class ParserService:
                 # print(country_row.findAll("td")[0].get_text(), 'no old data')
                 new_recovered = 0
 
-            append_data.append(new_recovered)            
+            append_data.append(new_recovered)
             parsed_data.append(append_data)
-        
+
         df = pd.DataFrame(parsed_data, columns=columns)
         return df.replace(to_replace=[""], value=0)
 
@@ -114,11 +114,11 @@ class ParserService:
         @Returns:
         Last updated time (string)
         """
-        
+
         soup = BeautifulSoup(raw_data, features="html.parser")
-        
+
         _styles = "font-size:13px; color:#999; margin-top:5px; text-align:center"
-        
+
         last_updated = soup.find("div", {"style": _styles})
-        
+
         return last_updated.text
