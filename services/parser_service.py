@@ -53,7 +53,7 @@ class ParserService:
         country_rows.sort(key=sort_alphabetically)
         country_rows_yesterday = countries_table_yesterday.find("tbody").find_all("tr")
         country_rows_yesterday.sort(key=sort_alphabetically)
-        regex = '(\n|\+|,)'
+        regex = r'(\n|\+|,)'
 
         def filter_by_value(seq, value):
             for el in seq:
