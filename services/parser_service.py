@@ -122,6 +122,9 @@ class ParserService:
 
         parsed_data = []
 
+        def sort_by_total_confirmed(item):
+            return int(item[1])
+
         country_rows = countries_table.find("tbody").find_all("tr")
 
         regex = r'(\n|\+|,)'
@@ -129,6 +132,8 @@ class ParserService:
         for country_row in country_rows:
             parsed_data.append([re.sub(regex, "", data.get_text().strip()) for data
                                 in country_row.findAll("td")])
+
+        parsed_data.sort(key=sort_by_total_confirmed, reverse=True)
 
         df = pd.DataFrame(parsed_data, columns=columns)
         return df.replace(to_replace=[""], value=0)
