@@ -1,5 +1,5 @@
 Country/Other,Total Cases,New Cases,Total Deaths,New Deaths,Total Recovered,Active Cases,Serious/Critical,Tot Cases/ 1M pop,Deaths/ 1M pop,Total Tests,Tests/  1M pop ,Continent
-World,1853155,898,114247,53,423625,1315283,50853,238,14.7,0,0,All
+World,1853168,911,114248,54,423625,1315295,50852,238,14.7,0,0,All
 Europe,881110,0,76768,0,221548,582794,29929,0,0,0,0,Europe
 North America,598872,577,23509,33,42295,533068,12857,0,0,0,0,North America
 USA,560433,133,22115,10,32634,505684,11766,1693,67,2832539,8557,North America
@@ -12,7 +12,7 @@ UK,84279,0,10612,0,N/A,73323,1559,1241,156,352974,5200,Europe
 China,82160,108,3341,2,77663,1156,121,57,2,0,0,Asia
 Iran,71686,0,4474,0,43894,23318,3930,853,53,263388,3136,Asia
 Turkey,56956,0,1198,0,3446,52312,1665,675,14,376100,4459,Asia
-South America,50741,160,2093,12,5681,42967,1206,0,0,0,0,South America
+South America,50754,173,2094,13,5681,42979,1205,0,0,0,0,South America
 Belgium,29647,0,3600,0,6463,19584,1223,2558,311,102151,8814,Europe
 Netherlands,25587,0,2737,0,250,22600,1384,1493,160,101534,5926,Europe
 Switzerland,25415,0,1106,0,12700,11609,386,2937,128,193800,22393,Europe
@@ -99,7 +99,7 @@ Ivory Coast,574,0,5,0,85,484,0,22,0.2,0,0,Africa
 Ghana,566,0,8,0,4,554,2,18,0.3,37954,1221,Africa
 Niger,529,0,12,0,75,442,0,22,0.5,4353,180,Africa
 Burkina Faso,497,0,27,0,161,309,0,24,1,0,0,Africa
-Uruguay,480,0,7,0,231,242,16,138,2,8774,2526,South America
+Uruguay,480,0,8,1,231,241,15,138,2,8774,2526,South America
 Albania,446,0,23,0,217,206,7,155,8,3877,1347,Europe
 Channel Islands,431,0,9,0,48,374,0,2479,52,3320,19095,Europe
 Honduras,393,0,25,0,7,361,10,40,3,1600,162,North America
@@ -128,9 +128,9 @@ Faeroe Islands,184,0,0,0,157,27,0,3766,0,5509,112744,Europe
 Venezuela,181,0,9,0,93,79,6,6,0.3,181335,6377,South America
 Martinique,155,0,6,0,50,99,19,413,16,0,0,North America
 Guatemala,155,0,5,0,19,131,3,9,0.3,1134,63,North America
+Paraguay,147,13,6,0,22,119,1,21,0.8,2262,317,South America
 Guadeloupe,143,0,8,0,67,68,13,357,20,0,0,North America
 Brunei,136,0,1,0,106,29,2,311,2,9884,22593,Asia
-Paraguay,134,0,6,0,22,106,1,19,0.8,2262,317,South America
 Gibraltar,129,0,0,0,84,45,1,3829,0,1558,46244,Europe
 Rwanda,126,0,0,0,25,101,0,10,0,1966,152,Africa
 El Salvador,125,0,6,0,21,98,3,19,0.9,0,0,North America
@@ -189,7 +189,7 @@ Grenada,14,0,0,0,0,14,2,124,0,92,818,North America
 Eswatini,14,0,0,0,7,7,0,12,0,0,0,Africa
 Malawi,13,0,2,0,0,11,1,0.7,0.1,287,15,Africa
 Botswana,13,0,1,0,0,12,0,6,0.4,3115,1325,Africa
-Nepal,12,0,0,0,1,11,0,0.4,0,4426,152,Asia
+Nepal,12,0,0,0,1,11,0,0.4,0,5184,178,Asia
 Saint Kitts and Nevis,12,0,0,0,0,12,0,226,0,205,3853,North America
 St. Vincent Grenadines,12,0,0,0,1,11,0,108,0,56,505,North America
 Greenland,11,0,0,0,11,0,0,194,0,912,16065,North America
