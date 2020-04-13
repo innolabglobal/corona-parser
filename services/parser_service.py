@@ -80,13 +80,13 @@ class ParserService:
 
             if same_row:
                 today_recovered_elem = re.sub(regex, "", country_row.findAll("td")[5].get_text())
-                if today_recovered_elem:
+                if today_recovered_elem and today_recovered_elem != 'N/A':
                     today_recovered = int(today_recovered_elem)
                 else:
                     today_recovered = 0
 
                 yesterday_recovered_elem = re.sub(regex, "", same_row.findAll("td")[5].get_text())
-                if yesterday_recovered_elem:
+                if yesterday_recovered_elem and yesterday_recovered_elem != 'N/A':
                     yesterday_recovered = int(yesterday_recovered_elem)
                 else:
                     yesterday_recovered = 0
