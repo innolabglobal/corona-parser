@@ -1,6 +1,6 @@
 Country/Other,Total Cases,New Cases,Total Deaths,New Deaths,Total Recovered,Active Cases,Serious/Critical,Tot Cases/ 1M pop,Deaths/ 1M pop,Total Tests,Tests/  1M pop ,Continent,New Recovered
 Afghanistan,906,0,30 ,0,99,777,0,23,0.8,0,0,Asia,0
-Africa,20441,22,1020,0,4971,14450,187,0,0,0,0,Africa,0
+Africa,20474,55,1024,4,4973,14477,187,0,0,0,0,Africa,0
 Albania,539,0,26 ,0,283,230,5,187,9,5080,1765,Europe,0
 Algeria,2418,0,364 ,0,846,1208,60,55,8,3359,77,Africa,0
 Andorra,696,0,35 ,0,191,470,17,9008,453,1673,21653,Europe,0
@@ -143,10 +143,10 @@ Nepal,30,0, ,0,2,28,0,1,0,15800,542,Asia,0
 Netherlands,30449,0,3459 ,0,250,26740,1279,1777,202,154911,9041,Europe,0
 New Caledonia,18,0, ,0,14,4,1,63,0,3316,11615,Australia/Oceania,0
 New Zealand,1422,13,11 ,0,867,544,3,295,2,79078,16399,Australia/Oceania,51
-Nicaragua,9,0,1 ,0,4,4,0,1,0.2,0,0,North America,0
+Nicaragua,9,0,1 ,0,6,2,0,1,0.2,0,0,North America,2
 Niger,627,0,18 ,0,110,499,0,26,0.7,4688,194,Africa,0
 Nigeria,493,0,17 ,0,159,317,2,2,0.08,7153,35,Africa,0
-North America,760848,1093,39498,76,74298,647052,14623,0,0,0,0,North America,0
+North America,760848,1093,39498,76,74300,647050,14623,0,0,0,0,North America,0
 North Macedonia,1117,0,49 ,0,139,929,15,536,24,10859,5212,Europe,0
 Norway,6937,0,161 ,0,32,6744,63,1280,30,136236,25130,Europe,0
 Oceania,8079,40,78,2,5015,2986,62,0,0,0,0,Australia/Oceania,0
@@ -189,7 +189,7 @@ Spain,190839,0,20002 ,0,74797,96040,7371,4082,428,930230,19896,Europe,0
 Sri Lanka,244,0,7 ,0,77,160,1,11,0.3,4768,223,Asia,0
 St. Barth,6,0, ,0,4,2,0,607,0,0,0,North America,0
 St. Vincent Grenadines,12,0, ,0,1,11,0,108,0,87,784,North America,0
-Sudan,33,0,6 ,0,4,23,0,0.8,0.1,0,0,Africa,0
+Sudan,66,33,10 ,4,6,50,0,2,0.2,0,0,Africa,2
 Suriname,10,0,1 ,0,6,3,0,17,2,0,0,South America,0
 Sweden,13216,0,1400 ,0,550,11266,523,1309,139,74600,7387,Europe,0
 Switzerland,27078,0,1327 ,0,16400,9351,386,3129,153,206400,23849,Europe,0
@@ -214,7 +214,7 @@ Vatican City,8,0, ,0,2,6,0,9988,0,0,0,Europe,0
 Venezuela,227,23,9 ,0,113,105,4,8,0.3,299714,10540,South America,2
 Vietnam,268,0, ,0,198,70,8,3,0,206253,2119,Asia,0
 Western Sahara,6,0, ,0,0,6,0,10,0,0,0,Africa,0
-World,2250757,1894,154262,117,571145,1525350,57136,289,19.8,0,0,All,-428
+World,2250790,1927,154266,121,571149,1525375,57136,289,19.8,0,0,All,-424
 Yemen,1,0, ,0,0,1,0,0.03,0,0,0,Asia,0
 Zambia,52,0,2 ,0,30,20,1,3,0.1,2191,119,Africa,0
 Zimbabwe,24,0,3 ,0,2,19,0,2,0.2,2493,168,Africa,0

@@ -1,7 +1,7 @@
 Country/Other,Total Cases,New Cases,Total Deaths,New Deaths,Total Recovered,Active Cases,Serious/Critical,Tot Cases/ 1M pop,Deaths/ 1M pop,Total Tests,Tests/  1M pop ,Continent
-World,2250757,1894,154262,117,571145,1525350,57136,289,19.8,0,0,All
+World,2250790,1927,154266,121,571149,1525375,57136,289,19.8,0,0,All
 Europe,1029214,0,96228,0,289063,643923,28281,0,0,0,0,Europe
-North America,760848,1093,39498,76,74298,647052,14623,0,0,0,0,North America
+North America,760848,1093,39498,76,74300,647050,14623,0,0,0,0,North America
 USA,710021,286,37158,4,60510,612353,13509,2145,112,3574984,10800,North America
 Asia,358235,51,14069,3,170278,173888,6403,0,0,0,0,Asia
 Spain,190839,0,20002,0,74797,96040,7371,4082,428,930230,19896,Europe
@@ -19,7 +19,7 @@ Russia,32008,0,273,0,2590,29145,8,219,2,1718019,11773,Europe
 Canada,31927,0,1310,0,10543,20074,557,846,35,507701,13452,North America
 Netherlands,30449,0,3459,0,250,26740,1279,1777,202,154911,9041,Europe
 Switzerland,27078,0,1327,0,16400,9351,386,3129,153,206400,23849,Europe
-Africa,20441,22,1020,0,4971,14450,187,0,0,0,0,Africa
+Africa,20474,55,1024,4,4973,14477,187,0,0,0,0,Africa
 Portugal,19022,0,657,0,519,17846,222,1866,64,234207,22969,Europe
 Austria,14595,0,431,0,9704,4460,227,1621,48,169272,18795,Europe
 India,14352,0,486,0,2041,11825,0,10,0.4,335123,243,Asia
@@ -154,6 +154,7 @@ Liechtenstein,79,0,1,0,55,23,0,2072,26,900,23605,Europe
 Equatorial Guinea,79,0,0,0,4,75,0,56,0,854,609,Africa
 Liberia,76,0,7,0,7,62,0,15,1,0,0,Africa
 Barbados,75,0,5,0,15,55,4,261,17,965,3358,North America
+Sudan,66,33,10,4,6,50,0,2,0.2,0,0,Africa
 Guyana,63,0,6,0,9,48,4,80,8,283,360,South America
 Cayman Islands,61,0,1,0,7,53,3,928,15,702,10681,North America
 Sint Maarten,57,0,9,0,12,36,6,1329,210,163,3802,North America
@@ -171,7 +172,6 @@ Saint Martin,35,0,2,0,13,20,5,905,52,0,0,North America
 Benin,35,0,1,0,18,16,0,3,0.08,0,0,Africa
 Eritrea,35,0,0,0,0,35,0,10,0,0,0,Africa
 Mozambique,34,0,0,0,2,32,0,1,0,898,29,Africa
-Sudan,33,0,6,0,4,23,0,0.8,0.1,0,0,Africa
 Mongolia,31,0,0,0,5,26,0,9,0,1450,442,Asia
 Nepal,30,0,0,0,2,28,0,1,0,15800,542,Asia
 Maldives,29,0,0,0,16,13,0,54,0,3497,6469,Asia
@@ -204,7 +204,7 @@ Seychelles,11,0,0,0,5,6,0,112,0,0,0,Africa
 Suriname,10,0,1,0,6,3,0,17,2,0,0,South America
 MS Zaandam,9,0,2,0,0,7,0,0,0,0,0,0
 Gambia,9,0,1,0,2,6,0,4,0.4,316,131,Africa
-Nicaragua,9,0,1,0,4,4,0,1,0.2,0,0,North America
+Nicaragua,9,0,1,0,6,2,0,1,0.2,0,0,North America
 Vatican City,8,0,0,0,2,6,0,9988,0,0,0,Europe
 Mauritania,7,0,1,0,2,4,0,2,0.2,713,153,Africa
 Papua New Guinea,7,0,0,0,0,7,0,0.8,0,167,19,Australia/Oceania
