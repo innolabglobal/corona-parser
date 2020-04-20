@@ -1,6 +1,6 @@
 Country/Other,Total Cases,New Cases,Total Deaths,New Deaths,Total Recovered,Active Cases,Serious/Critical,Tot Cases/ 1M pop,Deaths/ 1M pop,Total Tests,Tests/  1M pop ,Continent
-World,2330766,81903,160047,6433,596482,1574237,55265,299,20.5,0,0,All
-Europe,1060036,30822,99278,3574,298699,662059,26386,0,0,0,0,Europe
+World,2330768,81903,160047,6433,596482,1574239,55265,299,20.5,0,0,All
+Europe,1060038,30822,99278,3574,298699,662061,26386,0,0,0,0,Europe
 North America,791406,31651,41537,2122,82836,667033,14659,0,0,0,0,North America
 USA,738792,29057,39014,1867,68269,631509,13551,2232,118,3722145,11245,North America
 Asia,370784,12600,14401,335,176091,180292,6426,0,0,0,0,Asia
@@ -150,7 +150,7 @@ French Guiana,96,0,0,0,64,32,2,321,0,0,0,South America
 Monaco,94,0,3,0,22,69,3,2395,76,0,0,Europe
 Togo,84,1,5,0,49,30,0,10,0.6,4191,506,Africa
 Bermuda,83,0,5,0,35,43,9,1333,80,552,8863,North America
-Liechtenstein,79,0,1,0,55,23,0,2072,26,900,23605,Europe
+Liechtenstein,81,0,1,0,55,25,0,2124,26,900,23605,Europe
 Equatorial Guinea,79,0,0,0,4,75,0,56,0,854,609,Africa
 Liberia,76,0,7,0,7,62,0,15,1,0,0,Africa
 Barbados,75,0,5,0,17,53,4,261,17,1000,3480,North America
