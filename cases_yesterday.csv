@@ -1,5 +1,5 @@
 Country/Other,Total Cases,New Cases,Total Deaths,New Deaths,Total Recovered,Active Cases,Serious/Critical,Tot Cases/ 1M pop,Deaths/ 1M pop,Total Tests,Tests/  1M pop ,Continent
-World,2631783,80542,184066,6607,717444,1730273,56686,338,23.6,0,0,All
+World,2631785,80544,184066,6607,717444,1730275,56686,338,23.6,0,0,All
 Europe,1164351,28819,111202,3296,360797,692352,25509,0,0,0,0,Europe
 North America,912911,33044,51088,2652,102613,759210,15271,0,0,0,0,North America
 USA,848717,29973,47659,2341,84050,717008,14016,2564,144,4325342,13067,North America
@@ -19,7 +19,7 @@ Belgium,41889,933,6262,264,9433,26194,1020,3614,540,171400,14789,Europe
 Canada,40190,1768,1974,140,13986,24230,557,1065,52,612192,16220,North America
 Netherlands,34842,708,4054,138,N/A,30538,1050,2033,237,171415,10004,Europe
 Switzerland,28268,205,1509,31,19900,6859,386,3266,174,227554,26293,Europe
-Africa,26654,1243,1244,47,7315,18095,174,0,0,0,0,Africa
+Africa,26656,1245,1244,47,7315,18097,174,0,0,0,0,Africa
 Portugal,21982,603,785,23,1143,20054,207,2156,77,284741,27925,Europe
 India,21370,1290,681,36,4370,16319,0,15,0.5,462621,335,Asia
 Peru,19250,1413,530,46,7027,11693,396,584,16,170400,5168,South America
@@ -188,13 +188,13 @@ Laos,19,0,0,0,4,15,0,3,0,1461,201,Asia
 Belize,18,0,2,0,2,14,1,45,5,785,1974,North America
 Fiji,18,0,0,0,8,10,0,20,0,0,0,Australia/Oceania
 New Caledonia,18,0,0,0,17,1,1,63,0,3552,12441,Australia/Oceania
+CAR,16,2,0,0,10,6,0,3,0,0,0,Africa
 Dominica,16,0,0,0,9,7,0,222,0,377,5237,North America
 Namibia,16,0,0,0,6,10,0,6,0,524,206,Africa
 Grenada,15,1,0,0,6,9,4,133,0,92,818,North America
 Saint Kitts and Nevis,15,0,0,0,1,14,0,282,0,257,4831,North America
 Saint Lucia,15,0,0,0,15,0,0,82,0,364,1982,North America
 Curaçao,14,0,1,0,11,2,0,85,6,302,1840,North America
-CAR,14,0,0,0,10,4,0,3,0,0,0,Africa
 St. Vincent Grenadines,13,1,0,0,3,10,0,117,0,99,892,North America
 Burundi,11,6,1,0,4,6,0,0.9,0.08,284,24,Africa
 Turks and Caicos,11,0,1,0,4,6,0,284,26,83,2144,North America
