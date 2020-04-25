@@ -61,7 +61,7 @@ class WikipediaService:
                             row_n = i + k
                             # in some cases the colspan can overflow the table, in those cases just get the last item
                             cell_n = min(cell_n, len(data[row_n]) - 1)
-                            clean_text = re.sub(regex, "", cell.text)
+                            clean_text = re.sub(regex, "", cell.text.strip())
                             # print(cell.text, clean_text)
                             data[row_n][cell_n] += clean_text
                             # print(clean_text.encode('utf-8'))
