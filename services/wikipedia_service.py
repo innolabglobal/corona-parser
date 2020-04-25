@@ -71,7 +71,7 @@ class WikipediaService:
 
             # write data out to tab separated format
             # page = os.path.split(wiki)[1]
-            file_name = 'lockdown.csv'
+            file_name = 'lockdown.tsv'
             f = codecs.open(file_name, 'w', encoding='utf-8')
             for i in range(n_rows):
                 if i == 0:
@@ -80,7 +80,7 @@ class WikipediaService:
                 if i == (n_rows - 1):
                     continue
 
-                row_str = ','.join(data[i])
+                row_str = '\t'.join(data[i])
                 row_str = row_str.replace('\n', '')
                 # print(row_str.encode('utf-8'))
                 f.write(row_str + '\n')
