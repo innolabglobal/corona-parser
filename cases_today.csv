@@ -1,7 +1,7 @@
 Country/Other,Total Cases,New Cases,Total Deaths,New Deaths,Total Recovered,Active Cases,Serious/Critical,Tot Cases/ 1M pop,Deaths/ 1M pop,Total Tests,Tests/  1M pop ,Continent
-World,2830051,1434,197245,154,798772,1834034,58523,363,25.3,0,0,All
+World,2830082,1465,197246,155,798776,1834060,58523,363,25.3,0,0,All
 Europe,1225314,0,117324,0,393199,714791,26300,0,0,0,0,Europe
-North America,997428,1285,56339,152,130891,810198,16345,0,0,0,0,North America
+North America,997459,1316,56340,153,130895,810224,16345,0,0,0,0,North America
 USA,925038,0,52185,0,110432,762421,15097,2795,158,5020850,15169,North America
 Asia,448241,25,16603,0,212865,218773,6060,0,0,0,0,Asia
 Spain,219764,0,22524,0,92355,104885,7705,4700,482,930230,19896,Europe
@@ -127,10 +127,10 @@ Mali,325,0,21,0,87,217,0,16,1,2172,107,Africa
 Montenegro,319,0,6,0,123,190,7,508,10,5085,8096,Europe
 Venezuela,318,0,10,0,132,176,4,11,0.4,394125,13860,South America
 Isle of Man,308,0,18,0,230,60,20,3622,212,2751,32352,Europe
+Jamaica,288,31,7,0,28,253,0,97,2,2518,850,North America
 Tanzania,284,0,10,0,48,226,7,5,0.2,0,0,Africa
 Vietnam,270,0,0,0,220,50,8,3,0,206253,2119,Asia
 El Salvador,261,0,8,0,72,181,2,40,1,16418,2531,North America
-Jamaica,257,0,7,0,28,222,0,87,2,2213,747,North America
 Paraguay,223,3,9,0,78,136,1,31,1,6917,970,South America
 Equatorial Guinea,214,0,1,0,7,206,0,153,0.7,854,609,Africa
 Congo,200,0,6,0,19,175,0,36,1,0,0,Africa
@@ -163,7 +163,7 @@ Uganda,75,0,0,0,46,29,0,2,0,18921,414,Africa
 Sint Maarten,73,0,12,0,22,39,8,1703,280,266,6204,North America
 Bahamas,73,0,11,0,15,47,1,186,28,0,0,North America
 Guyana,73,0,7,0,12,54,5,93,9,375,477,South America
-Haiti,72,0,5,0,2,65,0,6,0.4,690,61,North America
+Haiti,72,0,6,1,6,60,0,6,0.5,719,63,North America
 Cayman Islands,70,0,1,0,8,61,3,1065,15,940,14303,North America
 Mozambique,65,0,0,0,12,53,0,2,0,1439,46,Africa
 Libya,61,0,2,0,18,41,0,9,0.3,1337,195,Africa
