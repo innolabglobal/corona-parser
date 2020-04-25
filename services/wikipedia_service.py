@@ -61,8 +61,9 @@ class WikipediaService:
                             row_n = i + k
                             # in some cases the colspan can overflow the table, in those cases just get the last item
                             cell_n = min(cell_n, len(data[row_n]) - 1)
-                            clean_text = re.sub(regex, "", cell.text.strip())
-                            # print(cell.text, clean_text)
+                            clean_text = re.sub(regex, "", cell.text)
+
+                            clean_text = clean_text.strip() or ' '
                             data[row_n][cell_n] += clean_text
                             # print(clean_text.encode('utf-8'))
 
@@ -70,7 +71,7 @@ class WikipediaService:
 
             # write data out to tab separated format
             # page = os.path.split(wiki)[1]
-            file_name = 'lockdown.tsv'
+            file_name = 'lockdown.csv'
             f = codecs.open(file_name, 'w', encoding='utf-8')
             for i in range(n_rows):
                 if i == 0:
@@ -79,7 +80,7 @@ class WikipediaService:
                 if i == (n_rows - 1):
                     continue
 
-                row_str = '\t'.join(data[i])
+                row_str = ','.join(data[i])
                 row_str = row_str.replace('\n', '')
                 # print(row_str.encode('utf-8'))
                 f.write(row_str + '\n')
