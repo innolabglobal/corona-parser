@@ -9,7 +9,7 @@ Austria	Austria	2020-03-16	2020-04-13	National
 Azerbaijan	Azerbaijan	2020-03-31	2020-04-20	National
 Bangladesh	Bangladesh	2020-03-26	2020-04-25	National
 Barbados	Barbados	2020-03-28	2020-05-03	National
-Belarus	Minsk	2020-04-07	 	City
+Belarus	Minsk (no lockdown, onlysocial distancing measures)	2020-04-07	 	City
 Belgium	Belgium	2020-03-18	2020-04-19	National
 Bermuda	Bermuda	2020-04-04	2020-05-02	National
 Bolivia	Bolivia	2020-03-22	2020-04-15	National
@@ -46,7 +46,7 @@ Ireland	Ireland	2020-03-12	2020-05-05	National
 Israel	Bnei Brak	2020-04-02	 	City
 Italy	Italy	2020-03-09	2020-05-03	National
 Jamaica	Saint Catherine	2020-04-15	2020-04-22	Parish
-Jordan	Jordan	2020-03-18	 	National
+Jordan	Jordan	2020-03-18	2020-04-30	National
 Kosovo	Kosovo	2020-03-14	2020-05-04	National
 Kuwait	Kuwait	2020-03-14	2020-03-29	National
 Lebanon	Lebanon	2020-03-15	2020-03-28	National
@@ -87,7 +87,7 @@ Romania	Romania	2020-03-25	2020-05-12	National
 Russia	Moscow	2020-03-30	2020-05-01	Metropolitan area
 Rwanda	Rwanda	2020-03-21	2020-04-19	National
 Samoa	Samoa	2020-03-26	2020-04-08	National
-San Marino	San Marino	2020-03-14	 	National
+San Marino	San Marino	2020-03-14	2020-05-05	National
 Saudi Arabia	Jeddah	2020-03-29	 	City
 Saudi Arabia	Mecca	2020-03-26	 	City
 Saudi Arabia	Medina	2020-03-26	 	City
@@ -98,7 +98,7 @@ Singapore	Singapore	2020-04-07	2020-06-01	National
 Slovakia	Slovakia	2020-03-16	2020-04-22	National
 South Africa	South Africa	2020-03-26	2020-04-30	National
 Spain	Spain	2020-03-14	2020-05-09	National
-Switzerland	Switzerland	2020-03-17	2020-04-27 to 20-05-11	National
+Switzerland	Switzerland	2020-03-17	2020-04-27to 2020-05-11[138]	National
 Thailand	Thailand	2020-03-25	2020-05-31	National
 Trinidad and Tobago	Trinidad and Tobago	2020-03-17	2020-03-31	National
 Tunisia	Tunisia	2020-03-22	2020-04-19	National
@@ -116,5 +116,5 @@ United States	Michigan	2020-03-24	2020-04-13	State
 United States	New York	2020-03-20	2020-05-15	State
 United States	Oregon	2020-03-24	 	State
 United States	Wisconsin	2020-03-24	 	State
-Venezuela	Venezuela	2020-03-17	 	National
+Venezuela	Venezuela	2020-03-17	2020-05-13	National
 Zimbabwe	Zimbabwe	2020-03-30	2020-05-02	National
