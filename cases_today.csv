@@ -1,9 +1,9 @@
 Country/Other,Total Cases,New Cases,Total Deaths,New Deaths,Total Recovered,Active Cases,Serious/Critical,Tot Cases/ 1M pop,Deaths/ 1M pop,Total Tests,Tests/  1M pop ,Continent
-World,3484176,2825,244778,115,1121534,2117864,50858,447,31.4,0,0,All
+World,3484483,3132,244780,117,1121576,2118127,50858,447,31.4,0,0,All
 Europe,1424364,0,139410,0,531348,753606,17626,0,0,0,0,Europe
-North America,1260507,1905,73876,96,214216,972415,17718,0,0,0,0,North America
+North America,1260507,1905,73876,96,214221,972410,17718,0,0,0,0,North America
 USA,1160774,0,67444,0,173725,919605,16475,3507,204,6931132,20940,North America
-Asia,545909,99,19342,3,284456,242111,5491,0,0,0,0,Asia
+Asia,546216,406,19344,5,284493,242379,5491,0,0,0,0,Asia
 Spain,245567,0,25100,0,146233,74234,2386,5252,537,1528833,32699,Europe
 Italy,209328,0,28710,0,79914,100704,1539,3462,475,2108837,34879,Europe
 South America,200569,819,10259,16,69068,121242,9862,0,0,0,0,South America
@@ -20,7 +20,7 @@ Belgium,49517,0,7765,0,12211,29541,689,4273,670,260996,22520,Europe
 Africa,43734,0,1763,0,14664,27307,127,0,0,0,0,Africa
 Peru,42534,0,1200,0,12434,28900,671,1290,36,355604,10785,South America
 Netherlands,40236,0,4987,0,N/A,34999,708,2348,291,225899,13184,Europe
-India,39699,0,1323,0,10819,27557,0,29,1.0,976363,708,Asia
+India,39980,281,1323,0,10819,27838,0,29,1.0,1046450,758,Asia
 Switzerland,29817,0,1762,0,24200,3855,141,3445,204,276000,31890,Europe
 Ecuador,27464,0,1371,0,2132,23961,149,1557,78,73929,4190,South America
 Saudi Arabia,25459,0,176,0,3765,21518,139,731,5,339775,9760,Asia
@@ -98,15 +98,15 @@ Honduras,1010,111,76,1,116,818,10,102,8,4669,471,North America
 Tunisia,1009,0,42,0,323,644,25,85,4,24055,2035,Africa
 Latvia,871,0,16,0,348,507,2,462,8,63102,33455,Europe
 Cyprus,864,0,15,0,296,553,15,716,12,62267,51573,Asia
+Kyrgyzstan,795,26,10,2,564,221,12,122,2,51472,7889,Asia
 Albania,789,0,31,0,519,239,4,274,11,8669,3012,Europe
-Kyrgyzstan,769,0,8,0,527,234,12,118,1,51472,7889,Asia
 Andorra,747,0,44,0,472,231,17,9668,569,1673,21653,Europe
 Niger,736,0,35,0,507,194,0,30,1,5271,218,Africa
 Lebanon,733,0,25,0,197,511,43,107,4,37880,5550,Asia
 Costa Rica,733,0,6,0,372,355,6,144,1,13632,2676,North America
 0,721,0,15,0,645,61,4,0,0,0,0,0
 Diamond Princess,712,0,13,0,645,54,4,0,0,0,0,0
-Sri Lanka,705,3,7,0,172,526,1,33,0.3,23525,1099,Asia
+Sri Lanka,705,3,7,0,172,526,1,33,0.3,25206,1177,Asia
 Guatemala,688,44,17,1,72,599,5,38,0.9,7200,402,North America
 DRC,674,0,33,0,75,566,0,8,0.4,0,0,Africa
 Somalia,671,0,31,0,34,606,2,42,2,0,0,Africa
@@ -204,7 +204,7 @@ Saint Kitts and Nevis,15,0,0,0,8,7,0,282,0,294,5526,North America
 Nicaragua,14,0,3,0,7,4,0,2,0.5,0,0,North America
 Falkland Islands,13,0,0,0,13,0,0,3736,0,388,111494,South America
 Turks and Caicos,12,0,1,0,5,6,0,310,26,83,2144,North America
-Montserrat,11,0,1,0,2,8,1,2204,200,36,7212,North America
+Montserrat,11,0,1,0,7,3,1,2204,200,36,7212,North America
 Greenland,11,0,0,0,11,0,0,194,0,1271,22389,North America
 Vatican City,11,0,0,0,2,9,0,13733,0,0,0,Europe
 Seychelles,11,0,0,0,6,5,0,112,0,0,0,Africa
@@ -213,7 +213,7 @@ Suriname,10,0,1,0,8,1,0,17,2,404,689,South America
 MS Zaandam,9,0,2,0,0,7,0,0,0,0,0,0
 Mauritania,8,0,1,0,6,1,0,2,0.2,1032,222,Africa
 Papua New Guinea,8,0,0,0,0,8,0,0.9,0,604,68,Australia/Oceania
-Bhutan,7,0,0,0,5,2,0,9,0,10548,13670,Asia
+Bhutan,7,0,0,0,5,2,0,9,0,10761,13946,Asia
 British Virgin Islands,6,0,1,0,3,2,0,198,33,0,0,North America
 Caribbean Netherlands,6,0,0,0,0,6,0,229,0,110,4195,North America
 St. Barth,6,0,0,0,6,0,0,607,0,0,0,North America
