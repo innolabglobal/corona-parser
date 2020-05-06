@@ -1,7 +1,7 @@
 Country/Other,Total Cases,New Cases,Total Deaths,New Deaths,Total Recovered,Active Cases,Serious/Critical,Tot Cases/ 1M pop,Deaths/ 1M pop,Total Tests,Tests/  1M pop ,Continent
-World,3724517,81246,258027,5787,1240705,2225785,49256,478,33.1,0,0,All
+World,3724518,81247,258027,5787,1240705,2225786,49256,478,33.1,0,0,All
 Europe,1493973,24062,144102,1960,568522,781349,16507,0,0,0,0,Europe
-North America,1347201,28164,79446,2672,248746,1019009,17369,0,0,0,0,North America
+North America,1347202,28165,79446,2672,248746,1019010,17369,0,0,0,0,North America
 USA,1237633,24798,72271,2350,200626,964736,16179,3739,218,7727811,23347,North America
 Asia,587192,14353,20450,372,316185,250557,5261,0,0,0,0,Asia
 Spain,250561,2260,25613,185,154718,70230,2254,5359,548,1932455,41332,Europe
@@ -213,8 +213,8 @@ Suriname,10,0,1,0,9,0,0,17,2,404,689,South America
 MS Zaandam,9,0,2,0,0,7,0,0,0,0,0,0
 Mauritania,8,0,1,0,6,1,0,2,0.2,1032,222,Africa
 Papua New Guinea,8,0,0,0,8,0,0,0.9,0,2402,268,Australia/Oceania
+British Virgin Islands,7,1,1,0,3,3,0,232,33,132,4366,North America
 Bhutan,7,0,0,0,5,2,0,9,0,11015,14275,Asia
-British Virgin Islands,6,0,1,0,3,2,0,198,33,0,0,North America
 Caribbean Netherlands,6,0,0,0,0,6,0,229,0,110,4195,North America
 St. Barth,6,0,0,0,6,0,0,607,0,0,0,North America
 Western Sahara,6,0,0,0,5,1,0,10,0,0,0,Africa
