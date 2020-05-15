@@ -120,6 +120,8 @@ class ParserService:
         columns = [ParserService.format_table_header_column(th) for th
                    in countries_table.find("thead").findAll("th")]
 
+        del columns[0]
+
         parsed_data = []
 
         def sort_by_total_confirmed(item):
@@ -130,8 +132,10 @@ class ParserService:
         regex = r'(\n|\+|,)'
 
         for country_row in country_rows:
-            parsed_data.append([re.sub(regex, "", data.get_text().strip()) for data
-                                in country_row.findAll("td")])
+            appended_data = [re.sub(regex, "", data.get_text().strip()) for data
+                                in country_row.findAll("td")]
+            del appended_data[0]
+            parsed_data.append(appended_data)
 
         parsed_data.sort(key=sort_by_total_confirmed, reverse=True)
 
