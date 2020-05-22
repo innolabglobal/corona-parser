@@ -14,11 +14,15 @@ Bolivia	Bolivia	2020-03-22	2020-04-15	National
 Botswana	Botswana	2020-04-02	2020-04-30	National
 Brazil	Santa Catarina	2020-03-17	2020-04-07	State
 Brazil	São Paulo	2020-03-24	2020-05-10	State
+Chile	Chile	2020-03-19	 	National
 Colombia	Colombia	2020-03-25	2020-05-31	National
 Republic of the Congo	Republic of the Congo	2020-03-31	2020-04-20	National
 Costa Rica	Costa Rica	2020-03-23	 	National
 Croatia	Croatia	2020-03-18	2020-04-19	National
+Cuba	Cuba	2020-03-23	2020-04-20	National
 Czech Republic	Czech Republic	2020-03-16	2020-04-12	National
+Denmark	Denmark	2020-03-11	2020-04-13	National
+Dominican Republic	Dominican Republic	2020-03-19	 	National
 Ecuador	Ecuador	2020-03-16	2020-03-31	National
 El Salvador	El Salvador	2020-03-12	2020-04-02	National
 Eritrea	Eritrea	2020-04-02	2020-04-23	National
@@ -49,6 +53,7 @@ Liberia	Margibi	2020-03-23	2020-04-11	County
 Liberia	Montserrado	2020-03-23	2020-04-11	County
 Libya	Libya	2020-03-22	 	National
 Lithuania	Lithuania	2020-03-16	2020-04-27	National
+Luxembourg	Luxembourg	2020-03-18	2020-04-20to 2020-05-25	National
 Madagascar	Antananarivo	2020-03-23	2020-04-20	City
 Madagascar	Toamasina	2020-03-23	2020-04-20	City
 Malaysia	Malaysia	2020-03-18	2020-06-09	National
@@ -57,11 +62,13 @@ Montenegro	Tuzi	2020-03-24	 	Municipality
 Morocco	Morocco	2020-03-19	2020-04-20	National
 Namibia	Namibia	2020-03-27	2020-05-04	National
 Nepal	Nepal	2020-03-24	2020-04-15	National
+Netherlands	Netherlands	2020-03-16	2020-04-28	National
 New Zealand	New Zealand	2020-03-26	2020-05-14	National
 Nigeria	Abuja	2020-03-30	2020-04-12	City
 Nigeria	Lagos	2020-03-30	2020-04-12	City
 Nigeria	Ogun	2020-03-30	2020-04-12	State
 Northern Cyprus	Northern Cyprus	2020-03-30	 	National
+Norway	Norway	2020-03-12	2020-04-13	National
 Oman	Muscat	2020-04-10	2020-05-29	Governorate
 Oman	Jalan Bani Bu Ali	2020-04-16	TBD	Province
 Pakistan	Pakistan	2020-03-24	2020-05-09	National
@@ -89,12 +96,14 @@ Saudi Arabia	Qatif	2020-03-09	 	Area
 Saudi Arabia	Riyadh	2020-03-26	 	City
 Serbia	Serbia	2020-03-15	2020-04-21	National
 Singapore	Singapore	2020-04-07	2020-06-01	National
+Slovakia	Slovakia	2020-03-16	2020-04-22	National
 South Africa	South Africa	2020-03-26	2020-04-30	National
 Spain	Spain	2020-03-14	2020-05-09	National
+Switzerland	Switzerland	2020-03-17	2020-04-27to 2020-05-11	National
 Thailand	Thailand	2020-03-25	2020-05-31	National
 Trinidad and Tobago	Trinidad and Tobago	2020-03-17	2020-03-31	National
 Tunisia	Tunisia	2020-03-22	2020-04-19	National
-Turkey	Turkey	2020-04-23	2020-04-27	Only in 30 metropolitan cities and Zonguldak.
+Turkey	Turkey	2020-04-23	2020-04-27	National
 Ukraine	Ukraine	2020-03-17	2020-04-24	National
 United Arab Emirates	United Arab Emirates	2020-03-26	2020-04-17	National
 United Kingdom	United Kingdom	2020-03-23	 	National
