@@ -4,7 +4,9 @@ Algeria	Algiers	2020-03-23	2020-05-14	City
 Algeria	Blida	2020-03-23	2020-05-14	City
 Argentina	Argentina	2020-03-19	2020-06-28	National
 Armenia	Armenia	2020-03-24	2020-05-04	National
-Australia	Australia	2020-03-23	 	National
+Australia	Melbourne	2020-08-02	2020-09-13	Metropolitan area
+Australia	Regional Victoria	2020-08-06	 	State
+Australia	Rest of the country	2020-03-23	 	National
 Austria	Austria	2020-03-16	2020-04-13	National
 Azerbaijan	Azerbaijan	2020-03-31	2020-08-30	National
 Bangladesh	Bangladesh	2020-03-26	2020-05-16	National
@@ -110,6 +112,7 @@ United States	Michigan	2020-03-24	2020-04-13	State
 United States	New York	2020-03-22	2020-06-13	State
 United States	Oregon	2020-03-24	 	State
 United States	Wisconsin	2020-03-24	 	State
+United States	200 cities	2020-05-29	2020-06-08	More than 200 cities nationwide
 Venezuela	Venezuela	2020-03-17	2020-05-13	National
 Vietnam	Vietnam	2020-04-01	2020-04-22	National
 Zimbabwe	Zimbabwe	2020-03-30	2020-05-02	National
