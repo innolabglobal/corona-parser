@@ -1,124 +1,123 @@
-Country / Territory	Place	Lockdown	Lockdown	Eventual Second Lockdown	Eventual Second Lockdown	 
-Country / Territory	Place	Start date	End date	Start Date	End Date	Level
-Albania	Albania	2020-03-13	2020-06-01	 	 	National
-Algeria	Algiers	2020-03-23	2020-05-14	 	 	City
-Algeria	Blida	2020-03-23	2020-05-14	 	 	City
-Argentina	Greater Buenos Aires	2020-03-19	 	 	 	Metropolitan Area
-Argentina	Nationwide	2020-03-19	2020-06-28	 	 	National
-Armenia	Armenia	2020-03-24	2020-05-04	 	 	National
-Australia	Melbourne	2020-07-08	2020-09-28	 	 	Metropolitan area
-Australia	Regional Victoria	2020-08-06	 	 	 	State
-Australia	Rest of the country	2020-03-23	 	 	 	National
-Austria	Austria	2020-03-16	2020-04-13	 	 	National
-Azerbaijan	Azerbaijan	2020-03-31	2020-08-30	 	 	National
-Bangladesh	Bangladesh	2020-03-26	2020-05-16	 	 	National
-Barbados	Barbados	2020-03-28	2020-05-03	 	 	National
-Belgium	Belgium	2020-03-18	2020-05-04	 	 	National
-Bermuda	Bermuda	2020-04-04	2020-05-02	 	 	National
-Bhutan	Bhutan	2020-08-11	 	 	 	National
-Bolivia	Bolivia	2020-03-22	2020-07-31	 	 	National
-Botswana	Botswana	2020-04-02	2020-04-30	 	 	National
-Brazil	Santa Catarina	2020-03-17	2020-04-07	 	 	State
-Brazil	São Paulo	2020-03-24	2020-05-10	 	 	State
-Bulgaria	Bulgaria	2020-03-13	2020-06-15	 	 	National
-Colombia	Colombia	2020-03-25	2020-06-30	 	 	National
-Congo	Congo	2020-03-31	2020-04-20	 	 	National
-Costa Rica	Costa Rica	2020-03-23	 	 	 	National
-Croatia	Croatia	2020-03-18	2020-04-19	 	 	National
-Czech Republic	Czech Republic	2020-03-16	2020-04-12	 	 	National
-Ecuador	Ecuador	2020-03-16	2020-03-31	 	 	National
-El Salvador	El Salvador	2020-03-12	2020-04-02	 	 	National
-Eritrea	Eritrea	2020-04-02	2020-04-23	 	 	National
-Fiji	Lautoka	2020-03-20	2020-04-07	 	 	City
-Fiji	Suva	2020-04-03	2020-04-17	 	 	City
-France	France	2020-03-17	2020-05-11	 	 	National
-Georgia	Georgia	2020-03-31	2020-04-21	 	 	National
-Germany	Germany	2020-03-23	2020-04-20	 	 	National
-Ghana	Accra	2020-03-30	2020-04-12	 	 	Metropolitan Area
-Ghana	Kumasi	2020-03-30	2020-04-12	 	 	Metropolitan Area
-Greece	Greece	2020-03-23	2020-05-04	 	 	National
-Guernsey	Guernsey	2020-03-25	 	 	 	National
-Honduras	Honduras	2020-03-20	2020-05-17	 	 	National
-Hungary	Hungary	2020-03-28	2020-04-10	 	 	National
-India	India	2020-03-25	2020-06-07	 	 	National
-Iran	Iran	2020-03-14	2020-04-20	 	 	National
-Iraq	Iraq	2020-03-22	2020-04-11	 	 	National
-Ireland	All 26 counties	2020-03-12	2020-05-18	 	 	National
-Ireland	Kildare	2020-08-07	2020-08-31	 	 	Regional
-Ireland	Laois	2020-08-07	2020-08-21	 	 	Regional
-Ireland	Offaly	2020-08-07	2020-08-21	 	 	Regional
-Israel	Bnei Brak	2020-04-02	2020-04-16	2020-09-11	 	City
-Italy	Italy	2020-03-09	2020-05-18	 	 	National
-Jamaica	Saint Catherine	2020-04-15	2020-04-22	 	 	Parish
-Jordan	Jordan	2020-03-18	2020-04-30	 	 	National
-Kosovo	Kosovo	2020-03-14	2020-05-04	 	 	National
-Kuwait	Kuwait	2020-03-14	2020-03-29	 	 	National
-Lebanon	Lebanon	2020-03-15	2020-03-28	 	 	National
-Liberia	Margibi	2020-03-23	2020-04-11	 	 	County
-Liberia	Montserrado	2020-03-23	2020-04-11	 	 	County
-Libya	Libya	2020-03-22	 	 	 	National
-Lithuania	Lithuania	2020-03-16	2020-06-18	 	 	National
-Madagascar	Antananarivo	2020-03-23	2020-04-20	 	 	City
-Madagascar	Toamasina	2020-03-23	2020-04-20	 	 	City
-Malaysia	Malaysia	2020-03-18	2020-06-09	 	 	National
-Mexico	Mexico	2020-03-23	2020-06-01	 	 	National
-Mongolia	Mongolia	2020-03-10	2020-03-16	 	 	National
-Montenegro	Tuzi	2020-03-24	 	 	 	Municipality
-Morocco	Morocco	2020-03-19	2020-06-10	 	 	National
-Namibia	Namibia	2020-03-27	2020-05-04	 	 	National
-Nepal	Nepal	2020-03-24	2020-06-14	 	 	National
-New Zealand	New Zealand	2020-03-26	2020-05-14	 	 	National
-Nigeria	Abuja	2020-03-30	2020-04-12	 	 	City
-Nigeria	Lagos	2020-03-30	2020-04-12	 	 	City
-Nigeria	Ogun	2020-03-30	2020-04-12	 	 	State
-Northern Cyprus	Northern Cyprus	2020-03-30	 	 	 	National
-Oman	Muscat	2020-04-10	2020-05-29	 	 	Governorate
-Oman	Jalan Bani Bu Ali	2020-04-16	TBD	 	 	Province
-Pakistan	Pakistan	2020-03-24	2020-05-09	 	 	National
-Panama	Panama	2020-03-25	 	 	 	National
-Papua New Guinea	Papua New Guinea	2020-03-24	2020-04-07	 	 	National
-Paraguay	Paraguay	2020-03-20	2020-05-03	 	 	National
-Peru	Peru	2020-03-16	2020-06-30	 	 	National
-Philippines	Cebu	2020-03-27	2020-05-15	 	 	Province
-Philippines	Davao Region	2020-03-19	2020-05-15	 	 	Region
-Philippines	Luzon	2020-03-15	2020-04-30	 	 	Island group
-Philippines	Soccsksargen	2020-03-23	2020-05-15	 	 	Region
-Poland	Poland	2020-03-13	2020-04-11	 	 	National
-Portugal	Portugal	2020-03-19	2020-04-02	 	 	National
-Qatar	Doha Industrial Area	2020-03-11	 	 	 	Industrial park
-Romania	Romania	2020-03-25	2020-05-12	 	 	National
-Russia	Moscow	2020-03-30	2020-05-12	 	 	Metropolitan area
-Russia	Rest of the country	2020-03-28	2020-04-30	 	 	National
-Rwanda	Rwanda	2020-03-21	2020-04-19	 	 	National
-Samoa	Samoa	2020-03-26	2020-04-08	 	 	National
-San Marino	San Marino	2020-03-14	2020-05-05	 	 	National
-Saudi Arabia	Jeddah	2020-03-29	 	 	 	City
-Saudi Arabia	Mecca	2020-03-26	 	 	 	City
-Saudi Arabia	Medina	2020-03-26	 	 	 	City
-Saudi Arabia	Qatif	2020-03-09	 	 	 	Area
-Saudi Arabia	Riyadh	2020-03-26	 	 	 	City
-Serbia	Serbia	2020-03-15	2020-04-21	 	 	National
-Singapore	Singapore	2020-04-07	2020-06-01	 	 	National
-South Africa	South Africa	2020-03-26	2020-04-30	 	 	National
-Spain	Spain	2020-03-14	2020-05-09	 	 	National
-Sri Lanka	Sri Lanka	2020-03-18	2020-06-21	 	 	National
-Thailand	Thailand	2020-03-25	2020-05-31	 	 	National
-Trinidad and Tobago	Trinidad and Tobago	2020-03-17	2020-03-31	 	 	National
-Tunisia	Tunisia	2020-03-22	2020-04-19	 	 	National
-Turkey	Turkey	2020-04-23	2020-04-27	 	 	Only in 30 metropolitan cities and Zonguldak.
-Ukraine	Ukraine	2020-03-17	2020-04-24	 	 	National
-United Arab Emirates	United Arab Emirates	2020-03-26	2020-04-17	 	 	National
-United Kingdom	United Kingdom	2020-03-23	 	 	 	National
-United States	California	2020-03-19	 	 	 	State
-United States	Clark County in Nevada	2020-03-20	 	 	 	County
-United States	Connecticut	2020-03-23	2020-04-22	 	 	State
-United States	Illinois	2020-03-21	2020-05-30	 	 	State
-United States	Kansas City in Kansas	2020-03-24	2020-04-19	 	 	City
-United States	Massachusetts	2020-03-24	2020-05-04	 	 	State
-United States	Michigan	2020-03-24	2020-04-13	 	 	State
-United States	New York	2020-03-22	2020-06-13	 	 	State
-United States	Oregon	2020-03-24	 	 	 	State
-United States	Wisconsin	2020-03-24	 	 	 	State
-Venezuela	Venezuela	2020-03-17	2020-05-13	 	 	National
-Vietnam	Vietnam	2020-04-01	2020-04-22	 	 	National
-Zimbabwe	Zimbabwe	2020-03-30	2020-05-02	 	 	National
+Country / Territory	Place	Start date	End date	Level
+Albania	Albania	2020-03-13	2020-06-01	National
+Algeria	Algiers	2020-03-23	2020-05-14	City
+Algeria	Blida	2020-03-23	2020-05-14	City
+Argentina	Greater Buenos Aires	2020-03-19	 	Metropolitan Area
+Argentina	Nationwide	2020-03-19	2020-06-28	National
+Armenia	Armenia	2020-03-24	2020-05-04	National
+Australia	Melbourne	2020-07-08	2020-09-28	Metropolitan area
+Australia	Regional Victoria	2020-08-06	 	State
+Australia	Rest of the country	2020-03-23	 	National
+Austria	Austria	2020-03-16	2020-04-13	National
+Azerbaijan	Azerbaijan	2020-03-31	2020-08-30	National
+Bangladesh	Bangladesh	2020-03-26	2020-05-16	National
+Barbados	Barbados	2020-03-28	2020-05-03	National
+Belgium	Belgium	2020-03-18	2020-05-04	National
+Bermuda	Bermuda	2020-04-04	2020-05-02	National
+Bhutan	Bhutan	2020-08-11	 	National
+Bolivia	Bolivia	2020-03-22	2020-07-31	National
+Botswana	Botswana	2020-04-02	2020-04-30	National
+Brazil	Santa Catarina	2020-03-17	2020-04-07	State
+Brazil	São Paulo	2020-03-24	2020-05-10	State
+Bulgaria	Bulgaria	2020-03-13	2020-06-15	National
+Colombia	Colombia	2020-03-25	2020-06-30	National
+Congo	Congo	2020-03-31	2020-04-20	National
+Costa Rica	Costa Rica	2020-03-23	 	National
+Croatia	Croatia	2020-03-18	2020-04-19	National
+Czech Republic	Czech Republic	2020-03-16	2020-04-12	National
+Ecuador	Ecuador	2020-03-16	2020-03-31	National
+El Salvador	El Salvador	2020-03-12	2020-04-02	National
+Eritrea	Eritrea	2020-04-02	2020-04-23	National
+Fiji	Lautoka	2020-03-20	2020-04-07	City
+Fiji	Suva	2020-04-03	2020-04-17	City
+France	France	2020-03-17	2020-05-11	National
+Georgia	Georgia	2020-03-31	2020-04-21	National
+Germany	Germany	2020-03-23	2020-04-20	National
+Ghana	Accra	2020-03-30	2020-04-12	Metropolitan Area
+Ghana	Kumasi	2020-03-30	2020-04-12	Metropolitan Area
+Greece	Greece	2020-03-23	2020-05-04	National
+Guernsey	Guernsey	2020-03-25	 	National
+Honduras	Honduras	2020-03-20	2020-05-17	National
+Hungary	Hungary	2020-03-28	2020-04-10	National
+India	India	2020-03-25	2020-06-07	National
+Iran	Iran	2020-03-14	2020-04-20	National
+Iraq	Iraq	2020-03-22	2020-04-11	National
+Ireland	All 26 counties	2020-03-12	2020-05-18	National
+Ireland	Kildare	2020-08-07	2020-08-31	Regional
+Ireland	Laois	2020-08-07	2020-08-21	Regional
+Ireland	Offaly	2020-08-07	2020-08-21	Regional
+Israel	Bnei Brak	2020-04-02	2020-04-16	City
+Italy	Italy	2020-03-09	2020-05-18	National
+Jamaica	Saint Catherine	2020-04-15	2020-04-22	Parish
+Jordan	Jordan	2020-03-18	2020-04-30	National
+Kosovo	Kosovo	2020-03-14	2020-05-04	National
+Kuwait	Kuwait	2020-03-14	2020-03-29	National
+Lebanon	Lebanon	2020-03-15	2020-03-28	National
+Liberia	Margibi	2020-03-23	2020-04-11	County
+Liberia	Montserrado	2020-03-23	2020-04-11	County
+Libya	Libya	2020-03-22	 	National
+Lithuania	Lithuania	2020-03-16	2020-06-18	National
+Madagascar	Antananarivo	2020-03-23	2020-04-20	City
+Madagascar	Toamasina	2020-03-23	2020-04-20	City
+Malaysia	Malaysia	2020-03-18	2020-06-09	National
+Mexico	Mexico	2020-03-23	2020-06-01	National
+Mongolia	Mongolia	2020-03-10	2020-03-16	National
+Montenegro	Tuzi	2020-03-24	 	Municipality
+Morocco	Morocco	2020-03-19	2020-06-10	National
+Namibia	Namibia	2020-03-27	2020-05-04	National
+Nepal	Nepal	2020-03-24	2020-06-14	National
+New Zealand	New Zealand	2020-03-26	2020-05-14	National
+Nigeria	Abuja	2020-03-30	2020-04-12	City
+Nigeria	Lagos	2020-03-30	2020-04-12	City
+Nigeria	Ogun	2020-03-30	2020-04-12	State
+Northern Cyprus	Northern Cyprus	2020-03-30	 	National
+Oman	Muscat	2020-04-10	2020-05-29	Governorate
+Oman	Jalan Bani Bu Ali	2020-04-16	TBD	Province
+Pakistan	Pakistan	2020-03-24	2020-05-09	National
+Panama	Panama	2020-03-25	 	National
+Papua New Guinea	Papua New Guinea	2020-03-24	2020-04-07	National
+Paraguay	Paraguay	2020-03-20	2020-05-03	National
+Peru	Peru	2020-03-16	2020-06-30	National
+Philippines	Cebu	2020-03-27	2020-05-15	Province
+Philippines	Davao Region	2020-03-19	2020-05-15	Region
+Philippines	Luzon	2020-03-15	2020-04-30	Island group
+Philippines	Soccsksargen	2020-03-23	2020-05-15	Region
+Poland	Poland	2020-03-13	2020-04-11	National
+Portugal	Portugal	2020-03-19	2020-04-02	National
+Qatar	Doha Industrial Area	2020-03-11	 	Industrial park
+Romania	Romania	2020-03-25	2020-05-12	National
+Russia	Moscow	2020-03-30	2020-05-12	Metropolitan area
+Russia	Rest of the country	2020-03-28	2020-04-30	National
+Rwanda	Rwanda	2020-03-21	2020-04-19	National
+Samoa	Samoa	2020-03-26	2020-04-08	National
+San Marino	San Marino	2020-03-14	2020-05-05	National
+Saudi Arabia	Jeddah	2020-03-29	 	City
+Saudi Arabia	Mecca	2020-03-26	 	City
+Saudi Arabia	Medina	2020-03-26	 	City
+Saudi Arabia	Qatif	2020-03-09	 	Area
+Saudi Arabia	Riyadh	2020-03-26	 	City
+Serbia	Serbia	2020-03-15	2020-04-21	National
+Singapore	Singapore	2020-04-07	2020-06-01	National
+South Africa	South Africa	2020-03-26	2020-04-30	National
+Spain	Spain	2020-03-14	2020-05-09	National
+Sri Lanka	Sri Lanka	2020-03-18	2020-06-21	National
+Thailand	Thailand	2020-03-25	2020-05-31	National
+Trinidad and Tobago	Trinidad and Tobago	2020-03-17	2020-03-31	National
+Tunisia	Tunisia	2020-03-22	2020-04-19	National
+Turkey	Turkey	2020-04-23	2020-04-27	Only in 30 metropolitan cities and Zonguldak.
+Ukraine	Ukraine	2020-03-17	2020-04-24	National
+United Arab Emirates	United Arab Emirates	2020-03-26	2020-04-17	National
+United Kingdom	United Kingdom	2020-03-23	 	National
+United States	California	2020-03-19	 	State
+United States	Clark County in Nevada	2020-03-20	 	County
+United States	Connecticut	2020-03-23	2020-04-22	State
+United States	Illinois	2020-03-21	2020-05-30	State
+United States	Kansas City in Kansas	2020-03-24	2020-04-19	City
+United States	Massachusetts	2020-03-24	2020-05-04	State
+United States	Michigan	2020-03-24	2020-04-13	State
+United States	New York	2020-03-22	2020-06-13	State
+United States	Oregon	2020-03-24	 	State
+United States	Wisconsin	2020-03-24	 	State
+Venezuela	Venezuela	2020-03-17	2020-05-13	National
+Vietnam	Vietnam	2020-04-01	2020-04-22	National
+Zimbabwe	Zimbabwe	2020-03-30	2020-05-02	National
