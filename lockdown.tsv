@@ -33,7 +33,8 @@ Fiji	Lautoka	2020-03-20	2020-04-07	 	 	City
 Fiji	Suva	2020-04-03	2020-04-17	 	 	City
 France	France	2020-03-17	2020-05-11	 	 	National
 Georgia	Georgia	2020-03-31	2020-04-21	 	 	National
-Germany	Germany	2020-03-23	2020-04-20	 	 	National
+Germany	Nationwide	2020-03-23	2020-04-20	 	 	National
+Germany	Berchtesgadener Land	 	 	2020-10-20	2020-11-03	District
 Ghana	Accra	2020-03-30	2020-04-12	 	 	Metropolitan Area
 Ghana	Kumasi	2020-03-30	2020-04-12	 	 	Metropolitan Area
 Greece	Greece	2020-03-23	2020-05-04	 	 	National
@@ -108,7 +109,9 @@ Tunisia	Tunisia	2020-03-22	2020-04-19	 	 	National
 Turkey	Turkey	2020-04-23	2020-04-27	 	 	Only in 30 metropolitan cities and Zonguldak.
 Ukraine	Ukraine	2020-03-17	2020-04-24	 	 	National
 United Arab Emirates	United Arab Emirates	2020-03-26	2020-04-17	 	 	National
-United Kingdom	United Kingdom	2020-03-23	2020-07-04	 	 	National
+United Kingdom	Nationwide	2020-03-23	2020-07-04	 	 	National
+United Kingdom	Northern Ireland	 	 	2020-10-16	2020-11-16	Country
+United Kingdom	Wales	 	 	2020-10-23	2020-11-09	Country
 United States	California	2020-03-19	 	 	 	State
 United States	Clark County in Nevada	2020-03-20	 	 	 	County
 United States	Connecticut	2020-03-23	2020-04-22	 	 	State
