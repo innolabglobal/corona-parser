@@ -25,7 +25,7 @@ Colombia	Colombia	2020-03-25	2020-06-30	 	 	National
 Congo	Congo	2020-03-31	2020-04-20	 	 	National
 Costa Rica	Costa Rica	2020-03-23	 	 	 	National
 Croatia	Croatia	2020-03-18	2020-04-19	 	 	National
-Czech Republic	Czech Republic	2020-03-16	2020-04-12	 	 	National
+Czech Republic	Czech Republic	2020-03-16	2020-04-12	2020-10-22	2020-11-03	National
 Ecuador	Ecuador	2020-03-16	2020-03-31	 	 	National
 El Salvador	El Salvador	2020-03-12	2020-04-02	 	 	National
 Eritrea	Eritrea	2020-04-02	2020-04-23	 	 	National
@@ -73,6 +73,7 @@ Nigeria	Abuja	2020-03-30	2020-04-12	 	 	City
 Nigeria	Lagos	2020-03-30	2020-04-12	 	 	City
 Nigeria	Ogun	2020-03-30	2020-04-12	 	 	State
 Northern Cyprus	Northern Cyprus	2020-03-30	2020-05-04	 	 	National
+North Korea	Kaesong	2020-07-25	2020-08-14	 	 	City
 Oman	Muscat	2020-04-10	2020-05-29	 	 	Governorate
 Oman	Jalan Bani Bu Ali	2020-04-16	TBD	 	 	Province
 Pakistan	Pakistan	2020-03-24	2020-05-09	 	 	National
@@ -112,7 +113,7 @@ United Arab Emirates	United Arab Emirates	2020-03-26	2020-04-17	 	 	National
 United Kingdom	Nationwide	2020-03-23	2020-07-04	 	 	National
 United Kingdom	Northern Ireland	 	 	2020-10-16	2020-11-16	Country
 United Kingdom	Wales	 	 	2020-10-23	2020-11-09	Country
-United States	California	2020-03-19	 	 	 	State
+United States	California	2020-03-19	2020-12-20	 	 	State
 United States	Clark County in Nevada	2020-03-20	 	 	 	County
 United States	Connecticut	2020-03-23	2020-04-22	 	 	State
 United States	Illinois	2020-03-21	2020-05-30	 	 	State
