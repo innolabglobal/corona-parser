@@ -3,7 +3,7 @@ Country / territory	Place	Start date	End date	Length (days)	Start date	End date	
 Albania	Albania	2020-03-13	2020-06-01	80	 	 	 	 	 	 	National
 Algeria	Algiers	2020-03-23	2020-05-14	52	 	 	 	 	 	 	City
 Algeria	Blida	2020-03-23	2020-05-14	52	 	 	 	 	 	 	City
-Argentina	Greater Buenos Aires	2020-03-19	 	315	 	 	 	 	 	 	Metropolitan Area
+Argentina	Greater Buenos Aires	2020-03-19	 	316	 	 	 	 	 	 	Metropolitan Area
 Argentina	Rest of the country	2020-03-19	2020-05-10	52	 	 	 	 	 	 	National
 Armenia	Armenia	2020-03-24	2020-05-04	41	 	 	 	 	 	 	National
 Australia	Melbourne	 	 	 	2020-07-08	2020-10-27	111	 	 	 	Metropolitan Area
@@ -17,7 +17,7 @@ Bangladesh	Bangladesh	2020-03-26	2020-05-16	51	 	 	 	 	 	 	National
 Barbados	Barbados	2020-03-28	2020-05-03	36	 	 	 	 	 	 	National
 Belgium	Belgium	2020-03-18	2020-05-04	47	2020-11-02	2020-12-14	42	 	 	 	National
 Bermuda	Bermuda	2020-04-04	2020-05-02	28	 	 	 	 	 	 	National
-Bhutan	Bhutan	2020-08-11	2020-09-01	170	 	 	 	 	 	 	National
+Bhutan	Bhutan	2020-08-11	2020-09-01	171	 	 	 	 	 	 	National
 Bolivia	Bolivia	2020-03-22	2020-07-31	131	 	 	 	 	 	 	National
 Botswana	Botswana	2020-04-02	2020-04-30	28	 	 	 	 	 	 	National
 Brazil	Santa Catarina	2020-03-17	2020-04-07	21	 	 	 	 	 	 	State
@@ -30,7 +30,7 @@ Canada	Ontario - South	 	 	 	2020-12-26	2021-01-23	28	 	 	 	Region
 Canada	Ontario - North	 	 	 	2020-12-26	2021-01-09	14	 	 	 	Region
 Colombia	Colombia	2020-03-25	2020-06-30	97	 	 	 	 	 	 	National
 Congo	Congo	2020-03-31	2020-04-20	20	 	 	 	 	 	 	National
-Costa Rica	Costa Rica	2020-03-23	2020-05-01	311	 	 	 	 	 	 	National
+Costa Rica	Costa Rica	2020-03-23	2020-05-01	312	 	 	 	 	 	 	National
 Croatia	Croatia	2020-03-18	2020-04-19	32	2020-12-22	2021-01-08	17	 	 	 	National
 Cyprus	Cyprus	2020-03-24	2020-04-13	20	2021-01-10	2021-01-31	21	 	 	 	National
 Czech Republic	Czech Republic	2020-03-16	2020-04-12	27	2020-10-22	2020-11-03	12	 	 	 	National
@@ -49,7 +49,7 @@ Ghana	Kumasi	2020-03-30	2020-04-12	13	 	 	 	 	 	 	Metropolitan Area
 Greece	Nationwide	2020-03-23	2020-05-04	42	2020-11-07	2021-01-18	72	 	 	 	National
 Greece	Thessaloniki	 	 	 	2020-11-03	2021-01-18	72	 	 	 	Regional unit
 Greece	Serres	 	 	 	2020-11-03	2021-01-18	72	 	 	 	Regional unit
-Guernsey	Guernsey	2020-03-25	2020-06-20	87	 	 	 	 	 	 	National
+Guernsey	Guernsey	2020-03-25	2020-06-20	87	2021-01-23	2021-02-06	14	 	 	 	National
 Honduras	Honduras	2020-03-20	2020-05-17	58	 	 	 	 	 	 	National
 Hungary	Hungary	2020-03-28	2020-04-10	13	 	 	 	 	 	 	National
 India	India	2020-03-25	2020-06-07	74	 	 	 	 	 	 	National
@@ -73,7 +73,7 @@ Jordan	Jordan	2020-03-18	2020-04-30	43	2020-11-10	2020-11-15	5	 	 	 	National
 Kosovo	Kosovo	2020-03-14	2020-05-04	51	 	 	 	 	 	 	National
 Kuwait	Kuwait	2020-05-10	2020-05-31	21	 	 	 	 	 	 	National
 Lebanon	Lebanon	2020-03-15	2020-03-28	13	2020-11-14	2020-11-28	14	 	 	 	National
-Libya	Libya	2020-03-22	 	312	 	 	 	 	 	 	National
+Libya	Libya	2020-03-22	 	313	 	 	 	 	 	 	National
 Lithuania	Lithuania	2020-03-16	2020-06-18	94	2020-11-07	2020-11-28	21	 	 	 	National
 Madagascar	Antananarivo	2020-03-23	2020-04-20	28	 	 	 	 	 	 	City
 Madagascar	Toamasina	2020-03-23	2020-04-20	28	 	 	 	 	 	 	City
@@ -87,7 +87,7 @@ Mexico	State of Mexico	 	 	 	2020-12-19	 	 	 	 	 	State
 Mexico	Morelos	 	 	 	2021-01-04	 	 	 	 	 	State
 Mexico	Guanajuato	 	 	 	2021-01-04	 	 	 	 	 	State
 Mongolia	Mongolia	2020-03-10	2020-03-16	6	2020-11-17	2020-12-01	15	 	 	 	National
-Montenegro	Tuzi	2020-03-24	2020-05-05	310	 	 	 	 	 	 	Municipality
+Montenegro	Tuzi	2020-03-24	2020-05-05	311	 	 	 	 	 	 	Municipality
 Morocco	Morocco	2020-03-19	2020-06-10	83	 	 	 	 	 	 	National
 Namibia	Namibia	2020-03-27	2020-05-04	38	 	 	 	 	 	 	National
 Nepal	Nepal	2020-03-24	2020-07-21	120	 	 	 	 	 	 	National
@@ -100,7 +100,7 @@ Nigeria	Ogun	2020-03-30	2020-04-12	13	 	 	 	 	 	 	State
 Northern Cyprus	Northern Cyprus	2020-03-30	2020-05-04	35	 	 	 	 	 	 	National
 North Korea	Kaesong	2020-07-25	2020-08-14	20	 	 	 	 	 	 	City
 Oman	Muscat	2020-04-10	2020-05-29	49	 	 	 	 	 	 	Governorate
-Oman	Jalan Bani Bu Ali	2020-04-16	TBD	287	 	 	 	 	 	 	Province
+Oman	Jalan Bani Bu Ali	2020-04-16	TBD	288	 	 	 	 	 	 	Province
 Pakistan	Pakistan	2020-03-24	2020-05-09	46	 	 	 	 	 	 	National
 Panama	Panama	2020-03-25	2020-05-31(downgraded to a night and weekend curfew)	67	 	 	 	 	 	 	National
 Papua New Guinea	Papua New Guinea	2020-03-24	2020-04-07	14	 	 	 	 	 	 	National
@@ -112,7 +112,7 @@ Philippines	Luzon	2020-03-15	2020-04-30	46 to 61 to 77	2020-08-04	2020-08-18	15	
 Philippines	Soccsksargen	2020-03-23	2020-05-15	53	 	 	 	 	 	 	Region
 Poland	Poland	2020-03-13	2020-04-11	29	2020-12-28	2021-01-17	20	 	 	 	National
 Portugal	Portugal	2020-03-19	2020-04-02	14	2021-01-15	2021-02-15	31	 	 	 	National
-Qatar	Doha Industrial Area	2020-03-11	2020-06-15	323	 	 	 	 	 	 	Industrial park
+Qatar	Doha Industrial Area	2020-03-11	2020-06-15	324	 	 	 	 	 	 	Industrial park
 Romania	Romania	2020-03-25	2020-05-12	48	 	 	 	 	 	 	National
 Russia	Moscow	2020-03-30	2020-05-12	43	 	 	 	 	 	 	Metropolitan area
 Russia	Rest of the country	2020-03-28	2020-04-30	33	 	 	 	 	 	 	National
@@ -139,7 +139,7 @@ United Arab Emirates	United Arab Emirates	2020-03-26	2020-04-17	22	 	 	 	 	 	 	N
 United Kingdom	England	2020-03-23	2020-07-04	103	2020-11-05	2020-12-02	27	2021-01-05	2021-02-16	42	National
 United Kingdom	Scotland	2020-03-23	2020-06-29	98	2020-12-26	2021-02-01	37	 	 	 	National
 United Kingdom	Northern Ireland	2020-03-23	2020-07-03	102	2020-11-27	2020-12-11	14	2020-12-26	2021-03-05	69	Country
-United Kingdom	Wales	2020-03-23	2020-07-13	112	2020-10-23	2020-11-09	17	2020-12-20	2021-01-29	at least 39 days	Country
+United Kingdom	Wales	2020-03-23	2020-07-13	112	2020-10-23	2020-11-09	17	2020-12-20	2021-02-21	at least 64 days	Country
 United Kingdom	North West	2020-12-31	not set	not set	 	 	 	 	 	 	Region
 United Kingdom	North East	2020-12-31	not set	not set	 	 	 	 	 	 	Region
 United Kingdom	East Midlands	2020-12-31	not set	not set	 	 	 	 	 	 	Region
@@ -163,15 +163,16 @@ United Kingdom	South Ayrshire	 	 	 	2020-11-20	2020-12-11	21	 	 	 	County
 United Kingdom	West Lothian	 	 	 	2020-11-20	2020-12-11	21	 	 	 	County
 United Kingdom	Stirling	 	 	 	2020-11-20	2020-12-11	21	 	 	 	County
 United States	California	2020-03-19	2020-05-08	89	2020-12-07	2020-12-28	21	 	 	 	State
-United States	Clark County in Nevada	2020-03-20	 	314	 	 	 	 	 	 	County
+United States	Clark County in Nevada	2020-03-20	 	315	 	 	 	 	 	 	County
 United States	Connecticut	2020-03-23	2020-04-22	30	 	 	 	 	 	 	State
 United States	Illinois	2020-03-21	2020-05-30	70	 	 	 	 	 	 	State
 United States	Kansas City in Kansas	2020-03-24	2020-04-19	26	 	 	 	 	 	 	City
 United States	Massachusetts	2020-03-24	2020-05-04	41	 	 	 	 	 	 	State
 United States	Michigan	2020-03-24	2020-04-13	20	 	 	 	 	 	 	State
 United States	New York	2020-03-22	2020-06-13	83	 	 	 	 	 	 	State
-United States	Oregon	2020-03-24	2020-05-15	310	 	 	 	 	 	 	State
-United States	Wisconsin	2020-03-24	 	310	 	 	 	 	 	 	State
+United States	Oregon	2020-03-24	2020-05-15	311	 	 	 	 	 	 	State
+United States	Wisconsin	2020-03-24	 	311	 	 	 	 	 	 	State
 Venezuela	Venezuela	2020-03-17	2020-05-13	57	 	 	 	 	 	 	National
-Vietnam	Vietnam	2020-04-01	2020-04-22	21	 	 	 	 	 	 	National
+Vietnam	Nationwide	2020-04-01	2020-04-22	21	 	 	 	 	 	 	National
+Vietnam	Chi Linh	2021-01-28	2021-02-18	21	 	 	 	 	 	 	City
 Zimbabwe	Zimbabwe	2020-03-30	2020-05-02	33	 	 	 	 	 	 	National
